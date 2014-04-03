@@ -1,0 +1,76 @@
+in 1, but not in 2: 
+==================
+[
+    "a longitudinal study of task performance, head movements, subjective report, simulator sickness, and transformed social interaction in collaborative virtual environments",
+    "a study of event traffic during the shared manipulation of objects within a collaborative virtual environment",
+    "acting rehearsal in collaborative multimodal mixed reality environments",
+    "adaptive generation of emotional impact using enhanced virtual environments",
+    "assessment of the therapeutic alliance in face-to-face or videoconference treatment for posttraumatic stress disorder",
+    "characteristics of social perception assessed in schizophrenia using virtual reality",
+    "comparing group discussion in virtual and physical environments",
+    "construction of a three-sided immersive telecollaboration system",
+    "determining sociability, social space, and social presence in (a)synchronous collaborative groups",
+    "development and verification of an alcohol craving-induction tool using virtual reality: craving characteristics in social pressure situation",
+    "effect of packet loss on collaborative haptic interactions in networked virtual environments: an experimental study",
+    "effects of stereoscopic viewing on presence, anxiety, and cybersickness in a virtual reality environment for public speaking",
+    "evaluation of auditory and visual feedback on task performance in a virtual assembly environment",
+    "from spatial proximity to semantic coherence: a quantitative approach to the study of group dynamics in collaborative virtual environments",
+    "how is believability of a virtual agent related to warmth, competence, personification, and embodiment?",
+    "improving spatial perception in telepresence and teleaction systems by displaying distance information through visual and vibrotactile feedback",
+    "including social interaction in stroke vr-based motor rehabilitation enhances performance: a pilot study",
+    "leaving the world behind: supporting group collaboration patterns in a shared virtual environment for product design",
+    "navigating virtual reality by thought: what is it like?",
+    "pilot study for assessing the behaviors of patients with schizophrenia towards a virtual avatar",
+    "predictors of smoking craving during virtual reality exposure",
+    "presence related formal aspects of hedonic valence in mood management: an investigation of the impact of mediated experiences on induced aggressive mood",
+    "small-group behavior in a virtual and real environment: a comparative study",
+    "social learning and adoption of new behavior in a virtual agent society",
+    "social presence in a home tele-application",
+    "successes and failures in co-present situations",
+    "temporal and spatial variations in presence: qualitative analysis of interviews from an experiment on breaks in presence",
+    "the transfer of spatial knowledge in virtual environment training",
+    "the unbearable likeness of being digital: the persistence of nonverbal social norms in online virtual environments",
+    "the usability of collaborative virtual environments and methods for the analysis of interaction",
+    "transatlantic touch: a study of haptic collaboration over long distance",
+    "transformed social interaction: decoupling representation from behavior and form in collaborative virtual environments",
+    "using augmented virtuality for remote collaboration",
+    "virtual competitors influence rowers",
+    "virtual fitness: stimulating exercise behavior through media technology",
+    "virtual social interactions in social anxiety\u2014the impact of sex, gaze, and interpersonal distance",
+    "vr-based conversation training program for patients with schizophrenia: a preliminary clinical trial"
+]
+in 2, but not in 1: 
+==================
+[
+    "an experiment on public speaking anxiety in response to three different types of virtual audience",
+    "avatars and emotional engagement in asynchronous online communication",
+    "handshake: realistic human-robot interaction in haptic enhanced virtual reality",
+    "judging perceived and traversed distance in virtual environments",
+    "presence in shared virtual environments and virtual togetherness",
+    "small group behavior in a virtual and real environment: a comparative study",
+    "social effects of an anthropomorphic help agent: humans versus computers",
+    "the effect of the agency and anthropomorphism on users' sense of telepresence, copresence, and social presence in virtual environments",
+    "the networked minds measure of social presence: pilot test of the factor structure and concurrent validity ",
+    "under pressure: avatar appearance and cognitive load effects on attitudes, trustworthiness, bidding, and interpersonal distance in a virtual store "
+]
+in both:
+==================
+[
+    "collaborative task performance for learning using a virtual environment",
+    "cubes in the cube: a comparison of a puzzle-solving task in a virtual and a real environment",
+    "effects of communication mode on social presence, virtual presence, and performance in collaborative virtual environments",
+    "empathy toward virtual humans depicting a known or unknown person expressing pain",
+    "equilibrium theory revisited: mutual gaze and personal space in virtual environments",
+    "exploring agent physicality and social presence for medical team training",
+    "gender differences in the impact of presentational factors in human character animation on decisions in ethical dilemmas",
+    "leveraging collaborative virtual environment technology for inter-population research on persuasion in a classroom setting",
+    "parasocial interaction with an avatar in second life: a typology of the self and an empirical test of the mediating role of social presence",
+    "real behavior in virtual environments: psychology experiments in a simple virtual-reality paradigm using video games",
+    "social inhibition in immersive virtual environments",
+    "spatial presence and emotions during video game playing: does it matter with whom you play?",
+    "the effect of behavioral realism and form realism of real-time avatar faces on verbal disclosure, nonverbal disclosure, emotion recognition, and copresence in dyadic interaction",
+    "the independent and interactive effects of embodied-agent appearance and behavior on self-report, cognitive, and behavioral markers of copresence in immersive virtual environments",
+    "the influence of intelligent characters on users' navigation through a three-dimensional virtual environment",
+    "the responses of people to virtual humans in an immersive virtual environment",
+    "\u201cit feels right. therefore, i feel present and enjoy\u201d: the effects of regulatory fit and the mediating roles of social presence and self-presence in avatar-based 3d virtual environments"
+]
