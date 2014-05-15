@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Paper",
+  "description": "A description of the results of a paper good enough to use for a meta-analysis",
+  "type": "object",
+  "properties": {
+    "id": {
+      "description": "The unique identifier for a paper",
+      "type": "integer"
+    },
+    "title": {
+      "description": "Title of the paper",
+      "type": "string"
+    },
+    "authors": {
+      "description": "Authors of the paper",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "journal": {
+      "description": "Journal where the paper got published",
+      "type": "string"
+    },
+    "year": {
+      "description": "Year when paper got published",
+      "type": "integer"
+    },
+    "effectSizes": {
+    },
+    "independentVariables": {
+    },
+    "dependentVariables": {
+    },
+    "moderatingVariables": {
+    },
+    "metrics": {
+    },
+    "url": {
+    },
+    "keywords": {
+    },
+    "comments": {
+    },
+    "codes": {
+      "description": "Codes for the specific metaanalysis you're doing. For example, [0, 1, 1] for not cognitive, yes perceptual, yes agent/avatar"
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+    }
+  },
+  "required": ["id", "title", "authors", "journal"]
+}
