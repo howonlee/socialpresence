@@ -1,0 +1,1169 @@
+Number, Authors,Year,Journal/Conference,Title,Cognitive,Perceptual,Involves Priming,Suggested Keywords,Detailed Comments,Agent/Avatar,Body Ownership,User Response,Participant Group,Relevance,Quality,Contributor (Your Name),Date Entered,
+1,"Armel, K. Carrie
+Ramachandran, V.S.",2003,Proceedings of the Royal Society / Biological Sciences,Projecting Sensations to External Objects: Evidence from Skin Conductance Response, N/A,Yes, N/A,Synchronization of Stimuli (a),"SCR to actions taken against objects
+", N/A,Yes (in the sense that users experienced sensations when their virtual hand was stroked/injured),"SCR, subjective, subjective response on an objective scale",40 UCSD Psych undergrads (18-23 old), Low,High,Ryan / Remo,2013-01-30,
+2,"Krauss, Robert M.
+Morrel-Samuels, Palmer
+Colasante, Christina",1991,Journal of Personality and Social Psychology,Do Conversational Hand Gestures Communicate?,Yes,Yes,Yes,"Anthropomorphic Face and Facial Expressions (a)
+Body Pose and Gestures (s, i)",Estimation of message from gestures, N/A,No,Conveying of information through gestures and/or speech,24 + 36 College Undergrads, Medium,High,Ryan / Remo,2013-01-30,
+3,"Duffy, Brian R.",2003,Robotics and Autonomous Systems,Anthropomorphism and the Social Robot,Yes, N/A, N/A,"Anthropomorphic Face and Facial Expressions (a)
+Physical Shape (s)
+Emotiveness (i) 
+Agency (i)","Survey of which anthropomorphic attributes of a robot are important for human / social acceptance
+",Agent,No,,,High, Medium,Ryan / Remo,2013-01-30,
+4,"Nowak, Kristine",2001,International Workshop on Presence (PRESENCE),"Defining and Differentiating Copresence, Social Presence and Presence as Transportation",Yes, N/A, N/A,,"Told they were interacting with human or agent, degrees of visual feedback", Mixed,No,,134 Telecommunications undergrads in the Midwest (19 - 33 old), Medium, N/A,Ryan / Remo,2013-01-30,
+5,"DeVault, David
+Sagae, Kenji
+Traum, David",2009,Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL),Can I Finish?: Learning When to Respond to Incremental Interpretation Results in Interactive Dialogue,Yes,Yes, N/A,"Responsiveness / Latency (o)
+Incremental Interpretation / Early Feedback (p)",,Agent,No,Beliefs/Illusions,, Medium, Low,Ryan / Remo,2013-01-30,
+6,"Holcomb, John B
+et al.",2002,The Journal of Trauma,Evaluation of Trauma Team Performance using an Advanced Human Patient Simulator for Resuscitation Training,Yes,Yes, N/A,Situational Plausibility (a),"Producing ""expert"" behavior medical teams",Agent,No, Behavior,Military medic teams, Low, Medium,Ryan / Remo,2013-01-30,
+7,"Good, M L",2003,Medical Education,Patient Simulation for Training Basic and Advanced Clinical Skills,Yes, N/A, N/A,Situational Plausibility (a),, N/A,No,,, Low, Medium,Ryan / Remo,2013-01-30,
+8,"Rickel, J
+Johnson, WL",1999,International Conference on Artificial Intelligence in Education,Virtual Humans for Team Training in Virtual Reality,Yes, No, N/A,"Situational Plausibility (a)
+Responsiveness / Latency (o)",Producing realistic human/agent teams to complete procedural tasks, Mixed,No,,, Medium, Low,Ryan / Remo,2013-01-30,
+9,"Pelechano, Nuria
+Allbeck, Jan M.
+Badler, Norman I.",2007,ACM SIGGRAPH/Eurographics Symposium on Computer Animation,Controlling Individual Agents in High-Density Crowd Simulation,Yes, N/A, N/A,"Situational Plausibility (a)
+Spontaneous Actions (p)",Simulation of crowd movement models,Agent,No,,, Low, Medium,Ryan / Remo,2013-01-30,
+10,"Liu, Ying
+Badler, Norman I.",2003,International Conference on Computer Animation and Social Agents (CASA),Real-time Reach Planning for Animated Characters using Hardware Acceleration, No, No, No,,"Efficient, but not necessarily realistic movement of virtual characters. No user tests.",Agent,No,,, Low, Low,Ryan / Remo,2013-01-30,
+11,"Chopra Khullar, S
+Badler, N I",1999,Autonomous Agents and Multi-Agent Systems,Where to Look? Automating Attending Behaviors of Virtual Human Characters.,Yes, No, No,Eye Gaze (i),Realistic gaze model for agents. No user tests.,Agent,No,,, Low, Medium,Ryan / Remo,2013-01-30,
+12,"Pelechano, Nuria
+et al.",2008,International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS),Being a Part of the Crowd: Towards Validating VR Crowds using Presence,Yes,Yes,Yes,Situational Plausibility (a),"Subjects told to assess validity of virtual world, really interested in realism of crowd behavior models",Agent,No,"Beliefs/Illusions
+Presence
+Social Presence",Randomly recruited members of university, Low, Medium,Ryan / Remo,2013-01-30,
+13,"Taylor, T.L.",2002,The Social Life of Avatars: Presence and Interaction in Shared Virtual Environments,Living Digitally: Embodiment in Virtual Worlds, No, No, No,,Survey of feelings while in the virtual world, Avatar,Yes (effect of using avatars to embody the self in the digital realm),Beliefs/Illusions,"Players of ""The Dreamscape""", Low, Medium,Ryan / Remo,2013-01-30,
+14,"Mennecke, Brian
+et al.",2008,SSRN Electronic Journal,Embodied Social Presence Theory, No, No, No,,, N/A,Yes (talks about embodied avatar as nexus of social activity),,, Low,High,Ryan / Remo,2013-01-30,
+15,"Heldal, Ilona
+et al.",2005,IEEE Virtual Reality (VR),Immersiveness and Symmetry in Copresent Scenarios, No,Yes, No,"Immersiveness (sm)
+Graphical Fidelity (sm)","Opinion of interaction with some numeric rating, Measure time taken for teams to complete task, No knowledge of partner or their technology.
+Nice comparison between immersive projection and HMD systems.", Avatar,Yes (collaboration with others in virtual and real environment), Behavior,220 Volunteers, Medium, Medium,Ryan / Remo,2013-01-30,
+16,"Adalgeirsson, Sigurdur Orn
+Breazeal, Cynthia",2010,ACM/IEEE International Conference on Human-Robot Interaction (HRI),MeBot: A Robotic Platform for Socially Embodied Telepresence, No,Yes, N/A,Physical Shape (s),"Numeric rating of interaction, ""desert survival"" scenario, Measure number of changes to items selected depending on robot configuration", Avatar,Yes (in the sense of telepresence), Behavior,42, Low, Medium,Ryan / Remo,2013-01-30,
+17,"Mantovani, Giuseppe
+Riva, Giuseppe",1999,Presence: Teleoperators and Virtual Environments,"“Real” Presence: How Different Ontologies Generate Different Criteria for Presence, Telepresence, and Virtual Presence", N/A, N/A, N/A,,, N/A,N/A,,, Low, Medium,Ryan / Remo,2013-01-30,
+18,"Raij, Andrew B
+et al.",2007,IEEE Transactions on Visualization and Computer Graphics,Comparing interpersonal interactions with a virtual human to those with a real human.,Yes, No, N/A,"Situational Plausibility (a)
+Emotiveness (i) 
+Auditory Stimuli (o)
+Synchronization of Stimuli (a)","Student rating of interaction with patient, Expert rating of interaction with patient, automated rating of goals completed", Mixed,No, Behavior,"Same-year, same-school med students",High,High,Ryan / Remo,2013-01-30,
+19,"Sas, Corina
+O'Hare, Gregory M. P.",2003,Presence: Teleoperators and Virtual Environments,Presence Equation: An Investigation into Cognitive Factors Underlying Presence,Yes, N/A,Yes,,"Numeric rating, Pursuit of unseen virtual character.
+Psychological make-up of users (creativity, empathy capacity, willingness) made a big difference to observed level of presence", N/A,No,Beliefs/Illusions,"32 CS students, University College Dublin (20-38 old)", Low, Medium,Ryan / Remo,2013-01-30,
+20,"Zanbaka, Catherine Amine
+et al.",2007,SIGCHI Conference on Human Factors in Computing Systems (CHI),Social responses to virtual humans,Yes,Yes, N/A,"Situational Plausibility (a)
+Display Technology (sm)","Survey questions, Time required to complete task. Considered if social facilitation and inhibition occur with virtual humans.", Mixed,No, Behavior,85 Psych students, Medium, Medium,Ryan / Remo,2013-01-30,
+21,"Schilbach, Leonhard
+et al.",2006,Neuropsychologia,Being with Virtual Others: Neural Correlates of Social Interaction.,Yes,Yes,Yes,"Emotiveness (i) 
+Eye Gaze (i)
+Anthropomorphic Face and Facial Expressions (a)","fMRI response used to estimate thoughts/feelings about interaction, Part of virtual scene with one seen and one unseen character",Agent,No, Thoughts,18 Right-handed healthy males, Medium,High,Ryan / Remo,2013-01-30,
+22,"Haans, Antal
+IJsselsteijn, Wijnand A.",2012,Interacting with Computers,Embodiment and Telepresence: Toward a Comprehensive Theoretical Framework, N/A, N/A, N/A,,, N/A,Yes (telepresence),,, Low, Medium,Ryan / Remo,2013-01-30,
+23,"Garau, Maia
+et al.",2003,Conference on Human Factors in Computing Systems (CHI),The Impact of Avatar Realism and Eye Gaze Control on Perceived Quality of Communication in a Shared Immersive Virtual Environment,Yes, N/A,Yes,"Eye Gaze (i)
+Anthropomorphic Appearance (a)
+Display Technology (sm)","Rating of quality of communication, Role play in negotiation", Avatar,No,Beliefs/Illusions,48 Same-sex pairs, Medium, Medium,Ryan / Remo,2013-01-30,
+24,"Slater, Mel",2002,Presence: Teleoperators and Virtual Environments,Presence and The Sixth Sense,Yes,Yes, N/A,,Place illusions, N/A,No,Beliefs/Illusions,, Low, Medium,Ryan / Remo,2013-01-30,
+25,"Guadagno, Rosanna E.
+Cialdini, Robert B.",2005,The Social Net: The Social Psychology of the Internet,Online Persuasion and Compliance: Social Influence on the Internet and Beyond, No,Yes,Yes,Agency (i),"Effect of randomly generated ""compatibility"" on persuasiveness; Study focused on human psychology when interacting online", N/A,N/A, Behavior,, Low, Medium,Ryan / Remo,2013-01-30,
+26,"Freeman, Jonathan
+et al.",1999,Presence: Teleoperators and Virtual Environments,Effects of Sensory Information and Prior Experience on Direct Subjective Ratings of Presence, No,Yes,Yes,Display Technology (sm),"""3DTV"" experiment priming, i.e. prior experience modified subjective rating of presence", N/A,No, Behavior,"University students, normal vision, stereoacuity", Low,High,Ryan / Remo,2013-01-30,
+27,"Huang, Yun
+et al.",2009,International Conference on Computational Science and Engineering,Virtually There: Exploring Proximity and Homophily in a Virtual World, N/A, N/A, N/A,,Natural correlations, Avatar,Yes (game avatar), Behavior,North American EverQuest II players on a given server, Low, Medium,Ryan / Remo,2013-01-30,
+28,"Kiesler, Sara
+et al.",2008,Social Cognition,Anthropomorphic Interactions with a Robot and Robot–like Agent,Yes,Yes,Yes,"Physical Shape (s)
+Anthropomorphic Appearance (a)
+Emotiveness (i) 
+Proxemics (sc)",Subjects expected a physical robot,Agent,No, Behavior,113 from CMU community,High, Medium,Ryan / Remo,2013-01-30,
+29,"Blanke, Olaf
+Metzinger, Thomas",2009,Trends in cognitive sciences,Full-Body Illusions and Minimal Phenomenal Selfhood,Yes, N/A, N/A,Physical Shape (s),, N/A,Yes (minimal necessary conditions for self-consciousness),Beliefs/Illusions,, Low, Medium,Ryan / Remo,2013-01-30,
+30,"Slater, Mel",2009,"Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences",Place Illusion and Plausibility can Lead to Realistic Behaviour in Immersive Virtual Environments,Yes,Yes, N/A,"Situational Plausibility (a)
+Immersiveness (sm)
+Anthropomorphic Appearance (a)
+Anthropomorphic Appearance (a)",, N/A,Yes (discusses virtual body as fusing point for place and plausibility illusion), Behavior,,High,High,Ryan / Remo,2013-01-30,
+31,"Petkova, Valeria I
+Ehrsson, H Henrik",2008,PLoS ONE,If I were You: Perceptual Illusion of Body Swapping,,Yes, N/A,"Physical Shape (s)
+Synchronization of Stimuli (a)",, N/A,Yes (body swapping experience),Beliefs/Illusions,, Low, Medium,Ryan / Remo,2013-01-30,
+32,"Mitchell, Wade J
+et al.",2011,i-Perception,A Mismatch in the Human Realism of Face and Voice Produces an Uncanny Valley,Yes,Yes, N/A,"Auditory Stimuli (o)
+Synchronization of Stimuli (a)","mismatch in the human realism of a character’s face and voice causes it to be
+evaluated as eerie", Mixed,No,Beliefs/Illusions,48 US undergraduates, Medium, Low,Ryan / Remo,2013-01-30,
+33,"IJsselsteijn, Wijnand
+et al.",2001,Presence: Teleoperators and Virtual Environments,"Effects of Stereoscopic Presentation, Image Motion, and Screen Size on Subjective and Objective Corroborative Measures of Presence", N/A,Yes, N/A,Display Technology (sm),, N/A,No, Behavior,"University students under 1.85m, normal vision, stereoacuity", Low,High,Ryan / Remo,2013-01-30,
+34,"Harvey, Michael A.
+Sanchez-Vives, Maria V.",2005,Presence: Teleoperators and Virtual Environments,The Binding Problem in Presence Research,Yes,Yes, N/A,Synchronization of Stimuli (a),, N/A,No,Beliefs/Illusions,, Low, Medium,Ryan / Remo,2013-01-30,
+35,"Powers, A.
+Kiesler, S. 
+Fussell, S. 
+Torrey, C.",2007,Proceedings of the 2nd ACM/IEEE International Conference on Human-Robot Interaction (HRI),"Comparing a computer agent with a humanoid robot
+", N/A,Yes,Yes,"Physical Shape (s)
+Proxemics (s)",participants were asked to talk with the robot about their health and habit,Agent,No,"Behavior, Thoughts",113 random, Medium, Medium,Myungho,2013-01-31,
+36,"Ahn, J. and Yang, H. and Kim, G.J. and Kim, N.",2012,Proceedings of the seventh annual ACM/IEEE international conference on Human-Robot Interaction,"User attentive behavior with camera view for in-situ robot control
+", N/A, N/A, N/A,N/A,focusing on HRI, N/A,No," Behavior, Thoughts",Random, N/A, N/A,Myungho,2013-01-31,
+37,"Kwon, E. and Kim, G.J.",2010,Proceedings of the 5th ACM/IEEE international conference on Human-robot interaction,"Humanoid robot vs. projector robot: exploring an indirect approach to human robot interaction
+", N/A, N/A, N/A,Anthropomorphic Face and Facial Expressions (a),focusing on HRI, N/A,No, Thoughts,Random, Low, Low,Myungho,2013-01-31,
+38,"Park, J. and Kim, G.J.",2009,Proceedings of the 4th ACM/IEEE international conference on Human robot interaction,"Robots with Projectors : An Alternative to Anthropomorphic HRI
+", N/A, N/A, N/A,N/A,Projector based Human robot interaction, N/A,No, Thoughts,Random, N/A, N/A,Myungho,2013-01-31,
+39,"Tachi, S. and Kawakami, N. and Nii, H. and Watanabe, K. and Minamizawa, K.",2008,"SICE Journal of Control, Measurement, and System Integration","Telesarphone: Mutual telexistence master-slave communication system based on retroreflective projection technology
+", N/A,Yes, N/A,"Body Pose and Gestures (s, i)
+Physical Shape (s)
+Haptic / Tactile Interactions (o)",multiple view points, Avatar,"Yes ( They didn't evaluate anything, but they used a special inhabitor station to control the avatar and the inhibitor could feel the avatar's hand movement or touch )",N/A,N/A,High, Medium,Myungho,2013-01-31,
+40,"Tsui, K.M. and Norton, A. and Brooks, D. and Yanco, H.A. and Kontak, D.",2011,Int. Symposium on Quality of Life Technologies: Intelligent Systems for Better Living,"Designing Telepresence Robot Systems for Use by People with Special Needs
+", No, No, No,N/A,focusing on designing interface for teleoperation for people with special needs, Avatar,No, Behavior,3 unabled people, N/A, Low,Myungho,2013-01-31,
+41,"Goza, SM and Ambrose, RO and Diftler, MA and Spain, IM",2004,Proceedings of the SIGCHI conference on Human factors in computing systems,"Telepresence control of the NASA/DARPA robonaut on a mobility platform
+", N/A, N/A, N/A,N/A,focusing on teleoperation, Avatar,"Yes ( No evaluation, Syncronized Arm movement between Avatar and Inhabitor ) ",N/A,N/A, N/A, Medium,Myungho,2013-01-31,
+42,"Sakamoto, D. and Kanda, T. and Ono, T. and Ishiguro, H. and Hagita, N.",2007,Proceedings of the 2nd ACM/IEEE International Conference on Human-Robot Interaction (HRI),"Android as a telecommunication medium with a human-like presence
+",Yes,Yes, No,"Body Pose and Gestures (s, i)
+Anthropomorphic Face and Facial Expressions (a)
+Body Pose and Gestures (s, i)
+Physical Shape (s)","unconsious behavior
+humanoid vs. 2D human face", Mixed,No, Thoughts,34 university students,High,High,Myungho,2013-01-31,
+43,"Maeda, H. and Hirose, K. and Yamashita, J. and Hirota, K. and Hirose, M.",2003,Proceedings of the 2nd IEEE/ACM International Symposium on Mixed and Augmented Reality,"All-around display for video avatar in real world
+", N/A, N/A, N/A,Physical Shape (s),focusing on development of an avatar system with 3D spinning display , Avatar,No,N/A,N/A, Low, Low,Myungho,2013-01-31,
+44,"Breazeal, C.",2003,Robotics and Autonomous Systems,Toward Sociable Robots,Yes, N/A,Yes,"Emotiveness (i)
+Body Pose and Gestures (s, i)
+Anthropomorphic Face and Facial Expressions (a)","participants were told that the robot neither speaks nor understands English, but babbles in a characteristic manner.",Agent,No, Behavior,4 random, Medium,High,Myungho,2013-01-31,
+45,"Bates, J. and others",1994,Communications of the ACM,"The role of emotion in believable agents
+",Yes, No, N/A,Emotiveness (i) ,discussion on a believable character,Agent,No,N/A,N/A, Low, Medium,Myungho,2013-01-31,
+46,"Lee, J.K. and Toscano, R.L. and Stiehl, W.D. and Breazeal, C.",2008,The 17th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2008),"The design of a semi-autonomous robot avatar for family communication and education
+", N/A, N/A, N/A,"Body Pose and Gestures (s, i)
+Eye Gaze (i)
+Physical Shape (s)",focusing on the design of a robot avatar, Mixed,No,N/A,N/A, Medium,High,Myungho,2013-01-31,
+47,"Nowak, K.L. and Biocca, F.",2003,Presence: Teleoperators and Virtual Environments,"The effect of the agency and anthropomorphism on users' sense of telepresence, copresence, and social presence in virtual environments
+",Yes, No,Yes,"Anthropomorphic Face and Facial Expressions (a)
+Agency (i)",participants were told whether they were interacting with either human or AI,Agent,No,"Beliefs/Illusions, Thoughts",134 undergraduates, Medium,High,Myungho,2013-01-31,
+48,"Holz, T. and Dragone, M. and O’Hare, G.M.P. and Martin, A. and Duffy, B.R.",2006,"ABSHL’06: Agent-Based Systems for Human Learning, AAMAS 2006 Workshop","Mixed reality agents as museum guides
+", N/A,Yes, N/A,Physical Shape (s),A robot with AR marker,Agent,No,N/A,N/A, Low, Low,Myungho,2013-01-31,
+49,"Jones, A. and Lang, M. and Fyffe, G. and Yu, X. and Busch, J. and McDowall, I. and Bolas, M. and Debevec, P.",2009,ACM Transactions on Graphics (TOG),"Achieving eye contact in a one-to-many 3D video teleconferencing system
+", N/A,Yes, N/A,Eye Gaze (i),3D spinning display, Avatar,No,N/A,N/A, Low,High,Myungho,2013-01-31,
+50,"Sanchez-Vives, M.V. and Slater, M.",2005,Nature Reviews Neuroscience,"From presence to consciousness through virtual reality.
+", N/A,Yes, N/A,N/A,leading article, N/A,No,N/A,N/A, N/A, Medium,Myungho,2013-01-31,
+51,"Bailenson, J.N. and Swinth, K. and Hoyt, C. and Persky, S. and Dimov, A. and Blascovich, J.",2005,Presence: Teleoperators and Virtual Environments,"The Independent and Interactive Effects of Embodied-Agent Appearance and Behavior on Self-Report, Cognitive, and Behavioral Markers of Copresence in Immersive Virtual Environments
+",Yes, No, No,"Body Pose and Gestures (s, i)
+Anthropomorphic Face and Facial Expressions (a)
+",varing appearance and behavior,Agent,No,"Beliefs/Illusions, Behavior, Thoughts",146(M:F=50:50) (18~27), Medium,High,Myungho,2013-01-31,
+52,"Slater, M.",2009,Philosophical Transactions of the Royal Society B: Biological Sciences,"Place illusion and plausibility can lead to realistic behaviour in immersive virtual environments.
+",Yes,Yes, N/A,N/A,leading article, N/A,No,N/A,N/A,N/A,High,Myungho,2013-01-31,
+53,"Slater, M. and Garau, M.",2007, Presence: Teleoperators and Virtual Environments,"The Use of Questionnaire Data in Presence Studies: Do Not Seriously Likert
+", N/A, N/A, N/A,N/A,validity of using questionnaire, N/A,No,N/A,N/A,N/A,N/A,Myungho,2013-01-31,
+54,"Garau, M. and Slater, M. and Pertaub, D.P. and Razzaque, S.",2005,Presence: Teleoperators and Virtual Environments,The Responses of People to Virtual Humans in an Immersive Virtual Environment,Yes, No, No,"Anthropomorphic Face and Facial Expressions (a)
+Responsiveness / Latency (o)
+Body Pose and Gestures (s, i)
+Proxemics (s)","varing reactiveness
+EDA, HR",Agent,No," Behavior, Physiology, Thoughts",Random,High,High,Myungho,2013-01-31,
+55,"Phillips, Lane
+Ries, Brian
+Kaeding, Michael
+Interrante, Victoria",2010,IEEE Virtual Reality,Avatar Self-Embodiment Enhances Distance Perception Accuracy in Non-Photorealistic Immersive Virtual Environments,N/A,N/A, N/A,N/A,"only inhabiter-avatar relation,
+measure the inhabiter's ability to judge distance in VE in terms of graphical fidelity.", Avatar,Yes (relationship between inhabiter's ability to judge distances in VE and fidelity of VE),N/A,"12 new participants (11 male, 1 female) + their previous experiment (8 participants) = total 20 participants.
+age: 18-33, $10 compensation",Medium,High,Kangsoo,2013-01-30,
+56,"Fischer, Kerstin
+Lohan, Katrin
+Foth, Kilian",2012,International Conference on Human-Robot Interaction (HRI),Levels of Embodiment: Linguistic Analyses of Factors Influencing HRI,Yes, No, No,"Eye gaze (R),
+Body Pose and Gestures (R),
+Anthropomorphic Face and Facial Expressions (SC),
+Physical Shape (SC)","Experiment: observe the interacter's behaviors during given task.
+Task: explaining some household objects to agent in three conditons: virtual agent, robot moving the eyes, and robot moving several parts (eyes, head, and neck)",Agent,No,"Behavior (user's linguistic behavior)
+Thoughts (robot's embodiment)","virtual agent: 30 participants
+robot moving eyes: 8 participants
+robot moving eyes and head: 6 participants
+students or staff from Bielefeld University
+age: 17-63",High,High,Kangsoo,2013-01-30,v
+57,"Mazlan, Mohammad Nur Azhar
+Burd, Liz",2011,Frontiers in Education Conference (FIE),Does an Avatar Motivate?,N/A,N/A, N/A,N/A,2D cartoon image avatar, N/A,N/A,N/A,N/A,Low,N/A,Kangsoo,2013-01-30,
+58,"Chuah, Joon Hao
+Lok, Benjamin",2012,IEEE International Symposium on Mixed and Augmented Reality (ISMAR),Hybrid Virtual-Physical Entities,Yes,Yes, No,"Anthropomorphic Face and Facial Expressions (SC),
+Body Pose and Gestures (R),
+Physical Shape (SC),
+Display Technology (sm),
+Tracking Accuracy (sm)","virtual-physical avatar, see-through display, tracking system for head-coupled perspective",Agent,No,Beliefs/Illusions (realism of agent),"33 participants
+(have to see the author's other papers for the details)",High,Low,Kangsoo,2013-01-30,v
+59,"Howard, Ayanna M.
+Roberts, Luke
+Garcia, Sergio
+Quarells, Rakale",2012,IEEE International Symposium on Mixed and Augmented Reality (ISMAR),"Using Mixed Reality to Map Human Exercise Demonstrations to a Robot Exercise
+Coach",N/A,N/A,N/A,N/A,"only inhabiter-avatar relation, but the inhabiter see their own avatar.
+they use both virtual agent and physical robot.
+kinect sensor tracks inhabiter (=interactor) motion.", Avatar,"Yes (indirectly related: users see their own avatars--robot and virtual charater, and users are promoted to exercise effectively)",N/A,"20 subjects (9: female, 11: male), age: 18-32 (avg: 23)","Medium (user study was about the exercise application, not the avatar system)",Medium,Kangsoo,2013-01-30,
+60,"Yura, Shunsuke
+Usaka, Tomonori
+Sakamura, Ken",1999,Proceedings IEEE International Conference on Multimedia Computing and Systems,Video Avatar: Embedded Video for Collaborative Virtual Environment,N/A,N/A, N/A,N/A,"inhabiter-avatar relation, and only description about implementation and features that they developed ", Avatar,N/A,N/A,N/A,Low,Medium,Kangsoo,2013-01-30,
+61,"Cassell, J.
+Ananny, M.
+Basu, A.
+Bickmore, T.
+Chong, P.
+Mellis, D.
+Ryokai, K.
+Smith, J.
+Vilhjalmsson, H.
+Yan, H.",2000,CHI,Shared reality: physical collaboration with a virtual peer,Yes,Yes, No,"Talk/Speak (p, r),
+Body Pose and Gestures (P, R),
+Physical Shape (SC),
+Pressure sensing (sm),
+Auditory Stimuli (sm)","virtual-physical fusion (mixture of physical object and virtual agent),
+pressure sensing in the floor to recognize the position of the interactor.",Agent,N/A,N/A,N/A,Medium,High,Kangsoo,2013-01-30,v
+62,"Breazeal, Cynthia",2003,International Journal of Human-Computer Studies,Emotion and sociable humanoid robots,N/A,N/A,N/A,N/A,development of robot that can express emotions,Agent,N/A,N/A,N/A,Low,High,Kangsoo,2013-01-30,
+63,"Badler, Norman I.",2001,Communications of the ACM,Virtual Beings,N/A,N/A,N/A,N/A,general review, N/A,N/A,N/A,N/A,Low,Medium,Kangsoo,2013-01-30,
+64,"Sakagami, Yoshiaki
+Watanabe, Ryujin
+Aoyama, Chiaki
+Matsunaga, Shinichi
+Higaki, Nobuo
+Fujimura, Kikuo",2002, International Conference on Intelligent Robots and Systems,The intelligent ASIMO: System overview and integration,N/A,N/A, N/A,N/A,overview to implement agent system,Agent,N/A,N/A,N/A,Low,Medium,Kangsoo,2013-01-30,
+65,"Noma, Tsukasa
+Zhao, Liwei
+Badler, Norman I.",2000,IEEE Computer Graphics and Applications,Design of a Virtual Human Presenter,N/A,N/A,N/A,N/A,text input-based computer-generated agent,Agent,N/A,,N/A,Low,Medium,Kangsoo,2013-01-30,
+66,"Buthpitiya, Senaka
+Zhang, Ying",2010, International Conference on Advances in Computer-Human Interactions,HyPhIVE : A Hybrid Virtual-Physical Collaboration Environment,Yes,Yes, No,"Eye Gaze (P, R),
+Anthropomorphic Face and Facial Expressions (SC),
+Body Pose and Gestures (P, R),","conference meeting in VE, embedded sensors in mobile devices (SM)", Avatar,N/A,,N/A,Medium,Medium,Kangsoo,2013-01-30,v
+67,"Kose-Bagci, Hatice
+Ferrari, Ester
+Dautenhahn, Kerstin
+Syrdal, Dag Sverre
+Nehaniv, Chrystopher L.",2009,Advanced Robotics,Effects of Embodiment and Gestures on Social Interaction in Drumming Games with a Humanoid Robot,Yes, No, No,"Body Pose and Gestures (P, R),
+Agency (P, R),
+Physical Shape (SC),
+Anthropomorphic Face and Facial Expressions (SC)",,Agent,No,,"66 participants (age: 9-10, primary school students)",High,High,Kangsoo,2013-01-30,v
+68,"Pacchierotti, Elena
+Christensen, Henrik I.
+Jensfelt, Patric",2005,Field and Service Robotics,Embodied social interaction for service robots in hallway environments,Yes, No, No,"Body Pose and Gestures (P, R),
+Physical Shape (SC)",,Agent,No,,no information about the participants,High,Low,Kangsoo,2013-01-30,v
+69,"Davis, S.
+Tsagarakis, N.G.
+Caldwell, Darwin G.",2008,IEEE-RAS International Conference on Humanoid Robots,The Initial Design and Manufacturing Process of a Low Cost Hand for the Robot iCub,N/A,N/A,N/A,N/A,need to check out the paper which mentions the whole iCub robot system,Agent,N/A,N/A,N/A,Low,Low,Kangsoo,2013-01-30,
+70,"Swartout, William R.
+Gratch, Jonathan
+Hill, Randall W.
+Hovy, Eduard
+Marsella, Stacy
+Rickel, Jeff
+Traum, David",2006,AI Magazine,Toward virtual humans,N/A,N/A, N/A,N/A,"this paper is about the working process of virtual human system.
+need to check out the paper which is about the system itself and its user study.", N/A,N/A,,N/A,Low (have to see other papers which related to user study),Medium,Kangsoo,2013-01-30,
+71,"Pedersen, L.
+Kortenkamp, D.
+Wettergreen, D.
+Nourbakhsh, I.",2003," International Symposium on Artificial Intelligence, Robotics and Automation in Space (ISAIRAS)",A Survey of Space Robotics,N/A,N/A,N/A,N/A,N/A, Mixed,N/A,N/A,N/A,Low,Medium,Kangsoo,2013-01-30,
+72,,,,No Paper (Microsoft’s Virtual Human—Milo),N/A,N/A,N/A,N/A,N/A,Agent,N/A,N/A,N/A,N/A,N/A,Kangsoo,2013-01-30,
+73,"Nishio, Shuichi
+Ishiguro, Hiroshi
+Hagita, Norihiro",2007,(Book) Humanoid Robots: New Developments ,Geminoid: Teleoperated android of an existing person,Yes, No, No,"Body Pose and Gestures (P, R),
+Physical Shape (SC),
+Anthropomorphic Face and Facial Expressions (SC)",, Avatar,No,Beliefs/Illusions,N/A,Medium,High,Kangsoo,2013-01-30,v
+74,"Nishio, Shuichi
+Ishiguro, Hiroshi",2011, International Journal of Machine Consciousness,Attitude change induced by different appearances of interaction agents,Yes, No, No,"Body Pose and Gestures (P),
+Physical Shape (SC),
+Anthropomorphic Face and Facial Expressions (SC)","comparison among dummy object, humanoid, android, and real human
+During priming, users received explanation on general procedure", Avatar,No, Behavior,"14 japanese (8 male, 6 female), compensation: Y(yen) 3000",High,High,Kangsoo,2013-01-30,v
+75,"Bartneck, Christoph
+Kanda, Takayuki
+Ishiguro, Hiroshi
+Hagita, Norihiro",2007, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN),Is the uncanny valley an uncanny cliff?,Yes, No, No,"Body Pose and Gestures (P),
+Physical Shape (SC),
+Anthropomorphic Face and Facial Expressions (SC)",Users were primed by reading instructions., Avatar,No, Thoughts,"58 associated people with a Universiy in the Kyoto (28: female, 30: male), age: 18-41 (mean: 21.3)",High,High,Kangsoo,2013-01-30,v
+76,"Slater, Mel
+Lotto, Beau
+Arnold, Maria Marta
+Sanchez-Vives, Maria V.",2009,Anuario de Psicología,How we experience immersive virtual environments: the concept of presence and its measurement,Yes,Yes,N/A,"Anthropomorphic Appearance (sc)
+Situational Plausibility (sc)
+Display Technology (sm)
+Tracking Accuracy (sm)","paper defines the concept of presence apart from other confusing terms, and its measurement,
+
+study of users' response to a real person or virtual person walking by them.", N/A,No,Physiology,6 subjects,High,High,Kangsoo,2013-01-30,v
+77,"Slater, Mel
+Spanlang, Bernhard
+Sanchez-Vives, Maria V.
+Blanke, Olaf",2010,PloS ONE,First Person Experience of Body Transfer in Virtual Reality,Yes,Yes,Yes,"Anthropomorphic Face and Facial Expressions (SC),
+Haptic / Tactile Interactions (SM)","participants see another avatar in VE, who interact with their own avatar, but the study is more focused on body ownership than the avatar-interacter relation.", Mixed,"Yes (degree of body transfer illusion in terms of perspective position, sync. of movement and tactile feedback)",Beliefs/Illusions,"24 male participants by advertisement around the campus (mean age: 27.6 +- 4.3 years), compensation: 10 Euro",High,High,Kangsoo,2013-01-30,v
+78,"Slater, Mel
+Spanlang, Bernhard
+Corominas, David",2010,ACM Transactions on Graphics,Simulating Virtual Environments within Virtual Environments as the Basis for a Psychophysics of Presence,N/A,N/A,N/A,N/A,only inhabiter-avatar relation, Avatar,"Yes (not mentioned directly in the paper, but I think it is indirectly involved in body ownership during the simulation, for example, users see their virtual representations' body movement corresponding to their own movement)",N/A,"20 participants (10 males) recruited by advertisement through the university campus,
+avg. age: 27 ± 8 years.
+Only 2 had any prior experience of virtual reality.",Medium,High,Kangsoo,2013-01-30,
+79,"Guadagno, Rosanna E.
+Blascovich, Jim
+Bailenson, Jeremy N.
+Mccall, Cade",2007,Media Psychology,Virtual Humans and Persuasion: The Effects of Agency and Behavioral Realism,Yes,Yes,Yes,"Agency (P, R),
+Anthropomorphic Face and Facial Expressions (SC)","Behavioral realism, gender, HMD",Agent,No, Behavior,"Study 1: 65 participants (29 female, 37 male) 
+Study 2: 174 participants (89 female, 85 male) 
+
+undergraduates who either received course credit or were paid $5 for their participation.",High,Medium,Kangsoo,2013-01-30,v
+80,"Bailenson, Jeremy N.
+Blascovich, Jim
+Guadagno, Rosanna E.",2008,Journal of Applied Social Psychology,Self-Representations in Immersive Virtual Environments,N/A,N/A,N/A,N/A,only inhabiter-avatar relation, Avatar,No,N/A,"64 students (32 female, 32 male) who received partial credit for a course.
+age: 18-22 (mean: 18.8)",Medium,High,Kangsoo,2013-01-30,
+81,"Ahn, Sun Joo
+Fox, Jesse
+Bailenson, Jeremy N.",2012,(Book) Leadership in Science and Technology: A Reference Handbook,Avatars,N/A,N/A,N/A,N/A,N/A, N/A,No,N/A,N/A,Low,Medium,Kangsoo,2013-01-30,
+82,"De Melo, Celso M.
+Carnevale, Peter
+Gratch, Jonathan",2011,Presence: Teleoperators & Virtual Environments,The Impact of Emotion Displays in Embodied Agents on Emergence of Cooperation with People,Yes, No, No,"Emotiveness (r) 
+Facial Expressions (sc)
+Synchronization of Stimuli (sc)","Agent cooperators are assessed based on their emotional facial expressions --> changes pattern of cooperation
+People cooperate significantly more with the cooperative agent vs the individualistic one",Agent,No,"Cooperative Behavior
+Decision-Making Process",51 USC students (avg. age 21.0), Medium,High,Remo,2013-02-08,
+83,"Steptoe, William
+Steed, Anthony",2012,Presence: Teleoperators & Virtual Environments,Multimodal Data Capture and Analysis of Interaction in Immersive Collaborative Virtual Environments, N/A, N/A, N/A,,Authors talk about general logging architecture for multi-modal trackers to facilitate future replay and analysis of human-surrogate interactions, Avatar,No,,, Low, Medium,Remo,2013-02-08,
+84,"Demeure, Virginie
+Niewiadomski, Radoslaw
+Pelachaud, Catherine",2011,Presence: Teleoperators & Virtual Environments,"How Is Believability of a Virtual Agent Related to Warmth, Competence, Personification, and Embodiment?",Yes, No, No,"Emotiveness (p) 
+Synchronization of Stimuli (sc)
+Body Pose and Gestures (sc)
+Cooperative Behavior (r)","Appropriate emotions lead to higher perceived believability and influence perceptions of warmth and competence. Considering an agent as believable can be different from having a human-like attitude toward it. Multi-modality in emotional displays is very important.
+
+",Agent,No,"Believability of Agent
+Warmth and Competence of Agent",104 online volunteers (avg. age 29.3; age range 19-60) + 40 volunteer students,High,High,Remo,2013-02-08,
+85,"Ballester, Belén Rubio
+Badia, Sergi Bermúdez i.
+Verschure, Paul F. M. J.",2012,Presence: Teleoperators & Virtual Environments,Including Social Interaction in Stroke VR-Based Motor Rehabilitation Enhances Performance: A Pilot Study,Yes, No, No,Social Engagement,Being engaged in a social task with virtual humans increases rehabilitation efforts in patients compared to single-player sessions. Affected patients also showed more enjoyment in the social setting.,Agent,Yes (patient movements are mapped to 3D avatar in real-time),More rehabilitation effort in social situations.,8 stroke patients (only data from 6 used), Low, Low,Remo,2013-02-08,
+86,"Smith, Cameron
+et al.",2011,Presence: Teleoperators & Virtual Environments,Interaction Strategies for an Affective Conversational Agent,Yes,Yes, No,"Emotiveness (p) 
+Synchronization of Stimuli (sc)
+Responsiveness / Latency (r)","Conversational agent that displays appropriate responses resulted in perceived independence, emotiveness, and friendliness.
+Latency can be tolerated to some degree, but uncertainty if response occurs is impactful.
+
+",Agent,No,"Appropriateness of agent's response.
+Affective behavior of agent.","12 participants (avg. age 33, age range 22 - 54)", Low, Medium,Remo,2013-02-08,
+87,"Nisky, Ilana
+Avraham, Guy
+Karniel, Amir",2012,Presence: Teleoperators & Virtual Environments,Three Alternatives to Measure the Human-Likeness of a Handshake Model in a Turing-like Test,Yes,Yes,No,"Body Pose and Gestures (p, r)
+Haptic / Tactile Interactions (sm)","Turing-like hand-shake test to see interrogator's feeling on hand shake movements. The study compares computer-generated hand-shake model with three conditions: i) pure--real human, ii) weighted--differently weighted (combined) real human's motion, iii) noise--combined human's motion with noise. PHANToM haptic device","Agent, Avatar and Mixed",No,Beliefs/Illusions,30 volunteers,High,High,Kangsoo,2013-02-08,v
+88,"Ter Maat, Mark
+Truong, Khiet P.
+Heylen, Dirk",2011,Presence: Teleoperators & Virtual Environments,How Agents' Turn-Taking Strategies Influence Impressions and Response Behaviors,Yes,No,Yes (Wizard of Oz),"Talk/Speak (p, r)
+Situational Plausibility (sc)","two studies: 
+i) subjects as bystanders are requested their impression after listening unintelligible conversations generated by computers.
+ii) subjects actively participate in the conversation which is about interview situation. an artificial agent (interviewer) is actually controlled by a human in a Wizard of Oz setting. (Priming)
+
+* turn-taking strategy in conversation","Agents with no interaction,
+Avatar (primed as an agent)",No,"Thoughts (impression of agents),
+Behavior (speech)","10 participants (students, age 20-30, 6 males and 4 females),
+
+22 participants (PhD ￼students, 16 males and 6 females, avg. age 27.55 (SD = 3.41)",High,High,Kangsoo,2013-02-08,v
+89,"Normand, Jean-Marie
+et al.",2012,Presence: Teleoperators & Virtual Environments,Full Body Acting Rehearsal in a Networked Virtual Environment--A Case Study,Yes,Yes,No,"Situational Plausibility (sc)
+Display Technology (sm)
+Tracking Accuracy (sm)
+Network Connection (sm)","Networked shared virtual environment for theatrical rehearsal.
+
+head-tracked HMD, full body tracking, Cave-like system, network latency,
+facial expressions were not supported.",Avatar,Yes (indirectly related: actors can see and control their own avatar in virtual environment for rehearsal),Thoughts,"professional actor, amateur director, and amateur actress",Medium,High,Kangsoo,2013-02-08,v
+90,"Kilteni, Konstantina
+Groten, Raphaela
+Slater, Mel",2012,Presence: Teleoperators & Virtual Environments,The Sense of Embodiment in Virtual Reality,N/A,N/A,N/A,N/A,"Review paper about measuring the sense of embodiment.
+inhabiter-avatar relation.",Avatar,Yes (reviewing of measuring self embodiment in VE),N/A,N/A,Low,High,Kangsoo,2013-02-08,
+91,"De Araújo, Anderson Souza
+De Carvalho, Luís Alfredo Vidal
+Da Costa, Rosa Maria E. Moreira",2010,Presence: Teleoperators & Virtual Environments,The Influence of Intelligent Characters on Users' Navigation Through a Three-Dimensional Virtual Environment,Yes,Yes,No,"Agency (p): Intelligence --> Talk/Speak (p)
+Anthropomorphic Appearance (sc)
+Tracking Accuracy (sm): body position sensors or user-input devices","Study about the potential of virtual characters in influencing users’ decisions in 3D virtual environments.
+The standard character had more influence on the users’ choices than the user-customized character.",Agent,No,Behaviors (decision-making: navigation choice),"40 university student volunteers (age: 18-44, mean age: 24)
+No experience VE navigation.",High,Medium,Kangsoo,2013-02-08,v
+92,"Fox, Jesse
+Bailenson, Jeremy
+Binney, Joseph",2009,Presence: Teleoperators & Virtual Environments,"Virtual Experiences, Physical Behaviors: The Effect of Presence on Imitation of an Eating Avatar",N/A,N/A,Yes (experimenter does not mention about the real purpose of candies next to participants during questionnaire in this experiment),N/A,"Study about the relationship between the environmental manipulations and the behavioral outcome of imitating the avatar’s eating behavior.
+
+relationshipe between presence and user's behavior,
+HMD, head tracking (3-axis orientation sensing)",Avatar,No,Behaviors,"69 students (32 male, 37 female)
+age: 18-29 (mean: 20.20, standard dev.: 1.55)
+compensation: course credit or $20",Low,Low,Kangsoo,2013-02-08,
+93,"Jin, Seung-A Annie",2010,Presence: Teleoperators & Virtual Environments,Parasocial Interaction with an Avatar in Second Life: A Typology of the Self and an Empirical Test of the Mediating Role of Social Presence,N/A,N/A,No,N/A,"it does not mention about the avatar's characteristics.
+user's charateristic is the main concern in the paper.
+Interdependent self-construal experiences closer PSI and stronger social presence.",Avatar,No,"Beliefs (Parasocial Interaction, Social Presence)","179 undergraduate students from communication courses at Boston College (136 females, 43 males)
+Mean age: 19.80, SD: 0.99
+voluntary,no monetary compensation",Low,Medium,Kangsoo,2013-02-08,
+94,"MacDorman, Karl F.
+et al.",2010,Presence: Teleoperators & Virtual Environments,Gender Differences in the Impact of Presentational Factors in Human Character Animation on Decisions in Ethical Dilemmas,Yes,Yes,No,"Anthropomorphic Appearance (sc)
+Graphical Fidelity (sm)",Study of the influence of a character’s presentation on decision making in an ethical dilemma.,N/A (video clip),No,Behaviors (decision-making: ethical dilemma),"682 participants (396 (58.1%) female, 286 (41.9%) male),
+
+467 (68.5%) of all participants were aged 18 to 25,
+637 (93.4%) listed their country of origin as the United States, and 624 (91.5%) were part-time or full-time students.
+
+undergraduate students and recent graduates of a nine-campus Midwestern university. ",Medium,High,Kangsoo,2013-02-08,
+95,"Peer, Angelika
+Pongrac, Helena
+Buss, Martin",2010,Presence: Teleoperators & Virtual Environments,Influence of Varied Human Movement Control on Task Performance and Feeling of Telepresence,N/A,N/A,No,N/A,"relation between avatar-inhabiter.
+
+teleoperation system with HMD and robotic body.
+How do humans utilize DOF provided by a given human-system interface?
+How does varied human movement control influence task performance?", Avatar,No,Task completion time,"16 subjects (8 female, 8 male), All right-handed. 
+age: 20-34 (mean 26.25, SD 3.96).
+15 participants had no experience with VE or telepresence systems,
+1 participant had a high degree of experience with such systems.",Medium,Medium,Kangsoo,2013-02-08,
+96,"Seyama, Jun'ichiro
+Nagayama, Ruth S.",2009,Presence: Teleoperators & Virtual Environments,Probing the Uncanny Valley with the Eye Size Aftereffect,N/A,N/A,No,N/A,"The experiments evaluated a facial aftereffect where prolonged observation of adaptation faces with enlarged eyes induced a bias to underestimate the eye size of test faces.
+The results showed that adaptation to natural stimuli induced the aftereffect for both natural and artificial test stimuli.
+The perception and cognition of artificial faces based on psychological findings about the perception and cognition of natural faces.
+However, artificial stimuli required a longer adaptation period (120 s) for the aftereffect to be induced compared to natural stimuli (60 s).",N/A (facial image),No,Thoughts (whether the eye size of each stimulus was abnormally large or not),"Exp 1. 50 participants (mean age: 20.5, 16 males, 33 females, 1 unknown sex)
+
+Exp 2. 56 participants (mean age: 22.3, 21 males, 35 females)
+
+Exp 3. 48 participants (mean age: 23.6, 13 males, 33 females, 2 unknown sex).",Low,Medium,Kangsoo,2013-02-08,
+97,"Wagner, Ina
+Broll, Wolfgang
+Jacucci, Giulio
+et al.",2009,Presence: Teleoperators & Virtual Environments,On the Role of Presence in Mixed Reality,,,,,,,,,,,,Myungho,2013-02-08,
+98,"Wellner, Mathias
+Sigrist, Roland
+Riener, Robert",2010,Presence: Teleoperators & Virtual Environments,Virtual Competitors Influence Rowers,,,,,,,,,,,,Myungho,2013-02-08,
+99,"Besmann, Anna
+Rios, Kimberly",2012,"CyberPsychology, Behavior & Social Networking",Pals in Power Armor: Attribution of Human-Like Emotions to Video Game Characters in an Ingroup/Outgroup Situation,,,,,,,,,,,,Remo,2013-02-08,
+100,"Germain, Vanessa Marchand, André et al.",2010,"CyberPsychology, Behavior & Social Networking",Assessment of the Therapeutic Alliance in Face-to-Face or Videoconference Treatment for Posttraumatic Stress Disorder, N/A, N/A, N/A,"Network Connection (sm) (in terms of time lapse)
+Therapeutic alliance
+Telepsychotherapy
+","The results show that telepsychotherapy does not nega- tively affect the development of a therapeutic alliance in individuals with PTSD.
+It was also found that the sense of presence felt during the videoconference and the perception of the session (complete immediately after the session) may be related to the thera- peutic alliance.", N/A,N/A,Thoughts(the quality of the therapeutic relationship),"Forty-six participants with PTSD received cognitive behavioral therapy, 17 of them by videoconference and 29 in person.", Low, Low,Myungho,2013-02-08,
+101,"Wieser, Matthias J Pauli, Paul et al.",2010,"CyberPsychology, Behavior & Social Networking","Virtual Social Interactions in Social Anxiety-The Impact of Sex, Gaze, and Interpersonal Distance", No, No, No,"Eye Gaze (p)
+Agent's gender","Two distances: 0.5m, 1.5m
+Two gaze conditions: direct, averted
+Two group: HSA, LSA
+ ",Agent,No,"Behavior (gaze duration, head movement)
+Physiological response(HR) ","39(20 High social anxiety 19 Low social anxiety groups), 162 female studnets were screened into high 20% and low 20% social anxiety groups. ", Low, Medium,Myungho,2013-02-08,
+102,"Lin, Shu-Fang",2011,"CyberPsychology, Behavior & Social Networking",Effect of Opponent Type on Moral Emotions and Responses to Video Game Play, N/A, N/A, N/A,Anthropomorphic Appearance (sc),"Emotional differences beween human and monster opponants are measured on shooting video game. 
+guilty: human opponant > monster-like character",Agent,No," Thoughts
+( moral judgement, guilt, shame, hostility, and game
+enjoyment )",120 (m60 w60 avr 21 year)  from a univ., Low, Low,Myungho,2013-02-08,
+103,"Kassner, Matthew P
+Wesselmann, Eric D
+et al.",2012,"CyberPsychology, Behavior & Social Networking",Virtually Ostracized: Studying Ostracism in Immersive Virtual Environments,,,,,,,,,,,,Remo,2013-02-08,
+104,"De Melo, Celso M.
+Carnevale, Peter
+Gratch, Jonathan",2012,Intelligent Virtual Agents,The Effect of Virtual Agents’ Emotion Displays and Appraisals on People’s Decision Making in Negotiation,Yes, No,Yes,"Emotiveness (p) 
+Facial Expressions (sc)
+Cooperative Behavior (r)","This paper is about the effect of a virtual agent with emotions in negotiation. Participants were told that they should negotiate with a virtual agent ( in this paper, the virtual agent is a recorded video ). The agent showed 5 different facial expressions after receiving the participant's first offer.",Agent,N/A,"Thought (perceived emotion of the agent, willingness of re-negotiate with the agent, agent's satisfaction of the offer, etc.)
+","204 (from Amazon Mechanical Turk, diverse) ", Medium,High,Myungho,2013-02-08,
+105,"Bouchard, Stéphane
+Bernier, François
+et al.",2013,"CyberPsychology, Behavior & Social Networking",Empathy Toward Virtual Humans Depicting a Known or Unknown Person Expressing Pain,,,,,,,,,,,,Remo,2013-02-08,
+106,"Weaver, Andrew J
+Lewis, Nicky",2012,"CyberPsychology, Behavior & Social Networking",Mirrored Morality: An Exploration of Moral Choice in Video Games,,,,,,,,,,,,Remo,2013-02-08,
+107,"Mühlberger, Andreas
+Wieser, Matthias J
+Pauli, Paul",2008,CyberPsychology & Behavior,Visual Attention during Virtual Social Situations Depends on Social Anxiety, No, No,Yes,"Emotiveness (p) 
+Facial Expressions (sc)","people's eyegaze behavior toward happy/angry characters in virtual elevator is measured in fear-relavant situation.
+Happy > Angry",Agent,No,"Behavior (EOG, eye movement)",26 (14 w age:19-36) divided into High/Low social anxiety group, Medium, Medium,Myungho,2013-02-08,
+108,"Riva, Giuseppe
+Gaggioli, Andrea
+Mantovani, Fabrizia",2008,CyberPsychology & Behavior,Are Robots Present? From Motor Simulation to “Being There”, N/A, N/A, N/A,Agency,"The author defines presence and social presence diffently from the widely accepted definitions, and devided them into 3 sub levels, applying them to robot.",Agent,No,N/A,N/A, Low, N/A,Myungho,2013-02-08,
+109,"Vugt, Henriette C. Van
+Bailenson, Jeremy N.
+et al.",2010,ACM Transactions on Computer-Human Interaction,Effects of Facial Similarity on User Responses to Embodied Agents, No, No, No,"Facial similarity with the user,
+Affordance,
+Gender","They investigated the effects of facial similarity between the user and the agent in terms of involvement, psychological distance, intention to use.",Agent,No,"Thoughts ( involvement, distance, intention)
+",64 undergraduate students, Medium, Medium,Myungho,2013-02-08,
+110,"Koulouri, Theodora
+Lauria, Stanislao
+et al.",2012,ACM Transactions on Computer-Human Interaction,Are We There Yet? The Role of Gender on the Effectiveness and Efficiency of User-Robot Communication in Navigational Tasks, N/A, N/A,Yes,"Gender differences
+","This study addresses gender differences in navigational task in terms of paired communication, i.e. MM MF FM FF, while one has a role of instructor(navigation system) and the other has a role of follower(robot) .",Agent,N/A,"Behavior ( completion time, # of turns, # of instructions, # of miscommunications ) ",56 participants from a UK university, Low, Medium,Myungho,2013-02-08,
+111,"Cafaro, Angelo
+Vilhjálmsson, Hannes Högni
+et al.",2012,Intelligent Virtual Agents,First Impressions: Users’ Judgments of Virtual Agents’ Personality and Interpersonal Attitude in First Encounters,Yes,Yes, No,"Proxemics (sc)
+Facial Expressions (sc)
+Eye Gaze (p)","Within 12.5 seconds of interaction with agent, user formed impression based on behavior.
+Proximity had impact on judgments of extraversion whereas smile and gaze on friendliness.
+Interesting paper, because it explicitly tries to take the different psychological make-ups of the users into account --> good background section as well.",Agent,Yes (user controls avatar and sees different camera perspectives),"First impression of human surrogate.
+Measured surrogate extraversion, friendliness, and likeability",32 subjects per trial (2 trials) recruited from campus (aged 21-60),High,High,Remo,2013-02-08,
+112,"Tsai, Jason
+Bowring, Emma
+et al.",2012,Intelligent Virtual Agents,A Study of Emotional Contagion with Virtual Characters,Yes, No, No,Facial Expressions (sc),"Emotional contagion effect occurs for subjects watching agent’s still images with neutral or happy expressions.
+Effect less if agent is introduced while user faces strategic decision. Effects return when decision has already been made
+
+",Agent,No,Evoke emotions (contagion),415 random participants (Amazon Mechanical Turk; >18 years; 2/3 Indian), Low, Medium,Remo,2013-02-08,
+113,"Segura, Elena Márquez
+Kriegel, Michael
+et al.",2012,Intelligent Virtual Agents,How Do You Like Me in This: User Embodiment Preferences for Companion Agents,Yes,Yes, No,"Physical Shape (sm)
+Display Technology (sm)
+Situational Plausibility (sc)","Participants in both condition groups (robot, VR-based agent) when given the choice would prefer to interact with the robot companion, mainly for its greater physical or social presence
+ Subjects  also  found  the  robot  less  annoying  and  talked to  it  more  naturally
+Preference for the robotic embodiment is not reflected in the users’ actual rating of the companion or their interaction with it → hypothesize that in a  task-based  context  a  user  focuses  much more on a companion’s behavior than its embodiment
+
+", Avatar,No,Relationship between the embodiment of an artificial companion and user perception and interaction with it,42 users. Interacted with both embodiments., Medium, Medium,Remo,2013-02-08,
+114,"Bergmann, Kirsten
+Eyssel, Friederike
+Kopp, Stefan",2012,Intelligent Virtual Agents,A Second Chance to Make a First Impression? How Appearance and Nonverbal Behavior Affect Perceived Warmth and Competence of Virtual Agents over Time,Yes, No, No,"Body Pose and Gestures (p)
+Anthropomorphic Appearance (sc)","Ratings of perceived agent warmth depend on interaction effects of time and agent appearance (with time decrease of perceived warmth for the robot-like agent, stable for human).
+Valuations of competence depend on the interaction of time and nonverbal behavior (independent of the agents’ appearance)
+
+",Agent,No,Evaluate if first impressions of agent warmth and competence can be changed.,80 university students (ages 19-48; avg. age 25.11), Low, Low,Remo,2013-02-08,
+115,"Silvervarg, Annika
+Raukola, Kristin
+et al.",2012,Intelligent Virtual Agents,The Effect of Visual Gender on Abuse in Conversation with ECAs,,,,,,,,,,,,Remo,2013-02-08,
+116,"Al Moubayed, Samer
+Skantze, Gabriel
+Beskow, Jonas",2012,Intelligent Virtual Agents,Lip-Reading: Furhat Audio Visual Intelligibility of a Back Projected Animated Face, No,Yes, No,"Auditory Stimuli (sm)
+Physical Shape (sm)
+Display Technology (sm)","Audio-visual speech intelligibility (lip readability) is slightly improved when the agent is projected onto a static 3D face model  (compared to 2D screen).
+No significant different for changed viewing angles.",Agent,No,Investigate contribution of back-projected robot head on speech intelligibility reported by users,"10  normal  hearing  subjects, 
+with normal or corrected to normal vision", Low, Medium,Remo,2013-02-08,
+117,"Gama, Sandra
+Barata, Gabriel
+et al.",2012,Intelligent Virtual Agents,A Model for Social Regulation of User-Agent Relationships,Yes, No, No,"Emotiveness (r) 
+Emotiveness (p) 
+Proxemics (sc)
+Facial Expressions (sc)","Authors present a model that regulates the development of user-agent relationships, articulating the Social Penetration Theory with personality modeling. Users perceive agent with this model as more interesting, while increasing its believability, engagement and fun",Agent,No,Increasing believability of surrogate by employing social science theories to guide surrogate behavior.,30 university students. 80% are between 18-25 years old., Medium, Medium,Remo,2013-02-08,
+118,"Krenn, Brigitte
+Schreitter, Stephanie
+et al.",2012,Intelligent Virtual Agents,Social Evaluation of Artificial Agents by Language Varieties,,,,,,,,,,,,Remo,2013-02-08,
+119,"Koda, Tomoko
+Kishi, Haruka
+et al.",2012,Intelligent Virtual Agents,Cultural Study on Speech Duration and Perception of Virtual Agent’s Nodding,,,,,,,,,,,,Remo,2013-02-08,
+120,"Obaid, Mohammad
+Damian, Ionut
+et al.",2012,Intelligent Virtual Agents,Cultural Behaviors of Virtual Agents in an Augmented Reality Environment,,,,,,,,,,,,Remo,2013-02-08,
+121,"Endrass, Birgit
+Nakano, Yukiko
+et al.",2011,Intelligent Virtual Agents,Culture-Related Topic Selection in Small Talk Conversations across Germany and Japan,N/A,N/A,N/A,N/A,"Study of preference in conversation topics performed by virutal characters in terms of cultural difference.
+
+No interacting with virtual characters, but just watching videos that virtual characters present conversations.",Agent,No,Thoughts (Preference of conversation topics in terms of cultural difference),over 40 university students (German and Japanese),Low,Medium,Kangsoo,2013-02-08,
+122,"Huang, Lixing
+Morency, Louis-Philippe
+Gratch, Jonathan",2011,Intelligent Virtual Agents,Virtual Rapport 2.0,Yes,Yes,No,"Eye Gaze (p, r)
+Body Pose and Gestures (p, r)
+Talk/Speak (p, r)
+Tracking Accuracy (sm)
+Auditory Stimuli (sm)","Comparing their current version of virtual agent (Virtual Rapport 2.0) with previous one (Rapport Agent) in terms of 4 different dimensions: rapport, naturalness, backchannel feedback, and End-of-Turn. Verifying the improvement of Virtual Rapport 2.0.",Agent,No,"Thoughts (rapport, overall naturalness, backchannel feedback and end-of-turn prediction)",21 participants,High,High,Kangsoo,2013-02-08,v
+123,"Kulms, Philipp
+Krämer, Nicole C.
+et al.",2011,Intelligent Virtual Agents,It’s in Their Eyes: A Study on Female and Male Virtual Humans’ Gaze,Yes, No, No,"Gender stereotype
+Eye Gaze (p)
+Talk/Speak (p)","4 agent conditions: low gaze vs. high gaze, female vs. male
+34"" monitor
+Actual behavior and its evaluation is more important for evaluation than gender stereotypes",Agent,No,"emotional state(PANAS), feminine/masculine attributes(BSRI), social presence
+participants' anwers to the Agent's questions
+","72 (40 female, 32 male), mean age 35.03 (SD = 12.11), the range between 19 and 59 years.", Low, Low,Myungho,2013-02-26,
+124,"Pütten, AstridM.
+Hoffmann, Laura
+et al.",2011,Intelligent Virtual Agents,Quid Pro Quo? Reciprocal Self-disclosure and Communicative Accomodation towards a Virtual Interviewer,Yes, No, No,"Talk/Speak (p)
+Agency (p)","the influence of reciprocal self-disclosure and wordiness on the amount of information humans disclose in front of a virtual interviewer
+
+- Independent Variables: Agent's wordiness, reciptorical self-disclosure as an interviewer
+- Dependent Variables: Perception of Virtual interviewer, Social presence(co-presence of the Nowak and Biocca Presence Scale), General Evaluation of the Interview, Behavioral Measurements (amount of words, breadth of self-disclosure)
+- Moderating Variables: Personality, Disclosure
+
+- when the agent was talkative, participants were more likely to reveal information
+- when the agent disclosed information, participants felt more co-presence
+- The talkative interviewer was generally evaluated more positively
+- Reciprocal self-disclosure unexpectedly did not influence participants’ answers",Agent,No,"Perception of Virtual interviewer, Social presence(co-presence of the Nowak and Biocca Presence Scale), General Evaluation of the Interview, Behavioral Measurements (amount of words, breadth of self-disclosure)",Eighty-one students (43 females and 38 males) were recruited via general advertising on campus. The mean age was 23.19 years (SD=2.75) ranging from 18 to 30 years,High,High,Myungho,2013-05-26,
+125,"Poppe, Ronald
+Truong, Khiet P.
+Heylen, Dirk",2011,Intelligent Virtual Agents,"Backchannels: Quantity, Type and Timing Matters",Yes, No, No,"Body Pose and Gestures (sc)
+Talk/Speak (r)","The originally performed type and timing of a backchannel appeared to be more human-like, compared to a switched type or random timing. Found that nods are more often appropriate than vocalizations. For quantity, too few or too many backchannels per minute appeared to reduce the quality of the behavior.
+
+",Agent,No,Rate human-likeness of animated virtual listener → human-likeness of backchannel behavior (visual nod and short vocalizations),24 university students/professors. Mean age 32.8 year., Medium, Medium,Remo,2013-02-08,
+126,"Obaid, Mohammad
+Niewiadomski, Radosław
+Pelachaud, Catherine",2011,Intelligent Virtual Agents,Perception of Spatial Relations and of Coexistence with Virtual Agents,Yes,Yes, No,"Talk/Speak (r)
+Proxemics (sc)
+Display Technology (sm)"," People compensate their voice according to the distance during the interaction with both augmented reality (AR) and virtual reality (VR) based agents
+In AR-based scenario users perceive stronger the distance between them and the virtual agent
+The results do not show any signiﬁcant diﬀerences regarding the notion of coexistence of the user
+
+", Avatar,No,"Perception of spatial relations and the perception of coexistence are studied for virtual agents embedded in real and virtual worlds
+Authors also measure involuntary voice modulation of study participants.",32 participants from New Zealand. Mean age 29.7. Different VR/AR experience levels,High, Medium,Remo,2013-02-08,
+127,"Lee, Kwan Min
+Jung, Younbo
+et al.",2006,International Journal of Human-Computer Studies,"Are Physically Embodied Social Agents Better than Disembodied Social Agents?: The Effects of Physical Embodiment, Tactile Interaction, and People's Loneliness in Human–Robot Interaction",N/A,N/A,No,N/A,"Not a human surrogate (Sony Aibo)
+Study on effects of physical embodiment on the feeling of an agent’s social presence.",Agent (Sony Aibo: not human-like robot),No,"Beliefs/illusions (social presence)
+Thoughts (evaluation of agent)",32 participants for each experiment,Medium,High,Kangsoo,2013-03-06,
+128,"Dinh, Huong Q.
+Walker, Neff
+Song, Chang
+Kobayashi, Akira
+Hodges, Larry F.",1999,IEEE Virtual Reality (VR),Evaluating the Importance of Multi-sensory Input on Memory and the Sense of Presence in Virtual Environments,N/A,N/A,No,N/A,"Inhabiter-Avatar relation.
+
+Multi-modality (visual, auditory, tactile and olfactory sensory cues) increases both the sense of presence and the memory for objects in VE.",Avatar,"Yes (indirectly, evaluation of inhabiter's presence in VE)",N/A,"322 students recruited from undergraduate classes at the Georgia Institute of Technology..
+compensation: partial course credit. All participants had no or limited experience (one time) with a VE.",Medium,Medium,Kangsoo,2013-02-15,
+129,"Insko, Brent E",2003,"Being There: Concepts, Effects and Measurement of User Presence in Synthetic Environments","Measuring Presence: Subjective, Behavioral and Physiological Methods",N/A,N/A,N/A,N/A,"Book chapter describes various methods to measure the ""Presence""",N/A,N/A,N/A,N/A,N/A,Medium,Kangsoo,2013-02-15,
+130,"Bailenson, Jeremy N
+Yee, Nick
+Merget, Dan
+Schroeder, Ralph",2006,Presence: Teleoperators and Virtual Environments,"The Effect of Behavioral Realism and Form Realism of Real-Time Avatar Faces on Verbal Disclosure, Nonverbal Disclosure, Emotion Recognition, and Copresence in Dyadic Interaction",Yes,Yes,No,"Body Pose and Gestures (p, r)
+Emotiveness (p, r) 
+Talk/Speak (p, r)
+Graphical Fidelity (sm)","Observing whether or not participants revealed more about themselves in terms of
+different forms and behaviors of avatar.
+
+Experimental conditions:
+i. voice only: low form / low behavior
+ii. video-conference: high form / high behavior
+iii.emotibox: low form / high behavior",Avatar,No,Behaviors (self disclosure),"30 undergraduate students (12 male, 18 female),
+compensation: $10",High,High,Kangsoo,2013-02-15,v
+131,"Jin, Seung-A Annie",2011,Presence: Teleoperators and Virtual Environments,"It Feels Right. Therefore, I Feel Present and Enjoy’’: The Effects of Regulatory Fit and the Mediating Roles of Social Presence and Self-Presence in Avatar-Based 3D Virtual Environments",N/A,N/A,N/A,N/A,"The study was focused on the inhabiter's 
+
+Regulatory fit significantly increases users’ enjoyment of virtual social interaction and postexperimental health behavioral intentions as well as feelings of social presence and self-presence during their interactions with a virtual interlocutor in 3D VEs.",Avatar,"Yes (indirectly, evaluation of inhabiter's presence in VE)","Enjoyment
+Beliefs/Illusions (Self/Social Presence)","Mean of Age: 19.80, Standard Deviation of Age: 1.01",Medium,High,Kangsoo,2013-02-15,
+132,"Bailenson, Jeremy N.
+Blascovich, Jim
+Beall, Andrew C.
+Loomis, Jack M.",2001,Presence: Teleoperators and Virtual Environments,"Equilibrium Theory Revisited: Mutual Gaze and Personal Space
+in Virtual Environments",Yes, No,Yes,"Proxemics (sc)
+Agency (p)
+Eye Gaze (p)
+Anthropomorphic Appearance (sc)","(Priming) Under the guise of a memory task, participants walked towards and around the agent.
+(Agency) All participants maintained more space around agents than they did around similarly sized and shaped but nonhuman-like objects.
+Results:
+- Both men and women gave more personal space to agents who exhibited realistic gaze behavior than to agents who did not as well as to the control pylon.
+- There were no reliable differences between the two types of faces (flat shaded and photograph textured)",Agent,No,"Behaviors (participants’s absolute position and orientation)
+Beliefs/Illusions (Social Presence Ratings)
+Memory","50 were recruited on campus (age ranged from 18 to 31
+)",High,High,Myungho,2013-02-20,
+133,"Fong, Terrence
+Nourbakhsh, Illah
+Dautenhahn, Kerstin",2003,Robotics and autonomous systems,A survey of socially interactive robots, N/A, N/A, N/A,N/A,"Socially interactive robots:
+- we use the term “socially interactive robots” to distinguish these robots from other robots that involve “conventional” human-robot interaction.
+- focusing on peer-to-peer human-robot interaction
+- specifically robots that exhibit “human social” characteristics( emotion, dialogue, learn/recognize models of other agents, social relationship, using natural cues, personality/character, social competencies", N/A,N/A,N/A,N/A, N/A,High,Myungho,2013-02-20,
+134,"Gonsior, Barbara
+Sosnowski, Stefan
+BuB, Malte
+Wollherr, Dirk
+Kuhnlenz, Kolja",2012,IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),An emotional adaption approach to increase helpfulness towards a robot, N/A, N/A, N/A,"Emotiveness (r) 
+Talk/Speak (r)
+Facial Expressions (sc)","Two experimental conditions:
+- With emotional adaption: the main group. Explicit and implicit emotional adaptions are applied.
+- Without emotional adaption: the comparison group. The robot is showing emotional reaction according to its success in the game.",Agent,N/A,"Behavior (participants's helpfulness)
+Thoughts (participants's self description of their current emotion, Empathy,Anthropomorphism, Animacy, Likeability, Perceived Intelligence)
+","41 subjects (27 male and 14 female, between 18 to 40 years with an average age of 23.8), with very different backgrounds.
+", Medium, Low,Myungho,2013-02-20,
+135,"Kuster, C
+Ranieri, N
+Agustina, H
+Bazin, JC
+Sun, C
+Popa, T
+Gross, M",2012,N/A,TOWARDS NEXT GENERATION 3D TELECONFERENCING SYSTEMS, N/A, N/A, N/A,N/A,"They use the Point grey camera to replace the low quality RGB of the Kinect, and applied denoising algorithm. 
+For transmission, they transmit 3D video data as RGB images with depth maps. The depth map is stored in the R channel. They use a standard H.264 2D video compression and H.323protocol.
+To avoid the depth map being significantly changed, they render the geometry from a novel viewpoint directly on the acquisition side and then transmit the modified depth map to the remote rendering sites.
+", N/A,N/A,N/A,N/A, N/A, N/A,Myungho,2013-02-20,
+136,"Chuah, Joon Hao
+Robb, Andrew
+et al.",2012,IEEE Virtual Reality Conference (VR),Increasing Agent Physicality to Raise Social Presence and Elicit Realistic Behavior,Yes,Yes,Yes (user was not told that ECAs were controlled by human --> omission),"Physical Shape (sm)
+Body Pose and Gestures (r)
+Talk/Speak (r)
+Talk/Speak (p)","Authors propose that the ECA analogues of immersion and presence are physicality and social presence.
+They found that increasing physicality can elicit realistic behavior and increase social presence but there was also an interaction effect with plausibility", Avatar,No,"Behavior (more realistically towards the ECA)
+Increase feeling of social presence
+
+",23 medical professionals.,High, Medium,Remo,2013-02-20,
+137,"González-Franco, Mar
+Pérez-Marcos, Daniel
+Spanlang, Bernhard
+Slater, Mel",2010,IEEE Virtual Reality Conference (VR),The Contribution of Real-Time Mirror Reflections of Motor Actions on Virtual Body Ownership in an Immersive Virtual Environment, N/A, N/A, No,"Synchronization of Stimuli (sc)
+Body Pose and Gestures (sc)
+Situational Plausibility (sc)","(?? I'm little bit confused of this sentence, I put Avatar in the ""Agent/Avatar"" column anyway.) This is related to agency, ‘The sense that 
+I am the one who is causing or generating an action’
+
+we concentrate on agency with respect to the body as a 
+whole, exclusively examining the contribution of real-time virtual 
+mirror reflections of upper body movements on body ownership.",Agent,Yes,"Beliefs/illusions( via bodyownership questionnaire )
+Behaviors (avoidance of harm to the reflected 
+virtual body)",20 (m10 f10 age: 18 - 31), Medium, Medium,Myungho,2013-02-20,
+138,"Johnsen, Kyle
+Lok, Benjamin",2008,IEEE Virtual Reality Conference (VR),An Evaluation of Immersive Displays for Virtual Human Experiences, No,Yes, No,Display Technology (sm),"Authors compare large-screen display (FTPD)  to a non-stereo head-mounted display   (HMD) for   a virtual human (VH) experience.
+HMD had higher presence score.
+Student self-ratings of empathy were  significantly  higher  in  the  HMD, but they were less able to accurately reflect on their own level of empathy",Agent,No,Display technology influence on exhibited empathy and users' feeling of presence,27 medical students, Low, Medium,Remo,2013-02-20,
+139,"Kotranza, Aaron
+Lok, Benjamin",2008,IEEE Virtual Reality Conference (VR),Virtual Human + Tangible Interface = Mixed Reality Human An Initial Exploration with a Virtual Breast Exam Patient, No,Yes, No,"Haptic / Tactile Interactions (sm)
+Physical Shape (sm)
+Pressure sensing (sm)","Paper proposes Mixed-Reality Humans (MRH) - virtual human embodied by a tangible interface  that shares the same registered space.
+In user study, users demonstrated interpersonal touch and social engagement similarly to interacting with a human patient.
+Users have higher expectations for the MRH to act human-like.",Agent,No,"Behavior (interpersonal touch, social engagement)
+Expectation (act more human-like when physically embodied agent)",8 second-year medical students, Medium, Medium,Remo,2013-02-20,
+140,"Kotranza, Aaron
+Lok, Benjamin
+et al.",2009,IEEE Virtual Reality Conference (VR),Virtual Humans That Touch Back: Enhancing Nonverbal Communication with Virtual Humans through Bidirectional Touch,Yes,Yes, No,"Haptic / Tactile Interactions (sm)
+Physical Shape (sm)
+Spontaneous Actions (p)","
+Authors use active haptic feedback from a mixed-reality human to the users. 
+Bidirectional   touch   affords   nonverbal communication    between    human    and    VH.
+Human-to-VH  touch  is used  for  the  same  communication  purposes  as  human-to-human touch
+VH-to-human  touch  (pseudo-haptic  and  active-haptic) allows the VH to communicate with its human interaction partner
+",Agent,No,"Behavior (interpersonal touch)
+Elicit more positive attitudes towards virtual human
+
+",54 medical students, Medium, Medium,Remo,2013-02-20,
+141,"Raij, Andrew
+Kotranza, Aaron
+et al.",2009,IEEE Virtual Reality Conference (VR),Virtual Experiences for Social Perspective-Taking, N/A, N/A, No,,"Use virtual social perspective-taking (VSP) to increase a user’s understanding of a patient’s emotions in a medical interview.
+During the VSP, participants reﬂected on their use of empathy and perspective-taking.
+The reﬂection afforded by VSP encouraged participants to change their behavior in future social interactions
+",Agent,Yes (users take perspective of surrogate to relive conversations),"Understand another person's perspective.
+Behavior (change for future, similar interactions)",16 medical students from different study years., Low, Medium,Remo,2013-02-20,
+142,"Steptoe, William
+Oyekoya, Oyewole
+et al.",2009,IEEE Virtual Reality Conference (VR),Eye Tracking for Avatar Eye Gaze Control During Object-Focused Multiparty Interaction in Immersive Collaborative Virtual Environments,Yes,Yes,No,"Eye Gaze (p, r)
+Tracking Accuracy (sm)","Study how the behaviour of avatar eye gaze may influence task performance, user experience and interactional behaviour as metrics of quality of communication.
+They found tracked- and static-gaze avatars made higher quality of communication than gaze model behaviour avatars in task performance and interactional analysis. However, they could not find significant difference in user experience.",Avatar,Yes (user-controlled avatars in VEs: user embodiment is a fundamental issue),Thoughts (effectiveness of the system),"12 participants (no experience of immersive projection tech.)
+compensation: £10",High,Medium,Kangsoo,2013-02-20,v
+143,"Steptoe, William
+Steed, Anthony",2008,IEEE Virtual Reality Conference (VR),High-Fidelity Avatar Eye-Representation,Yes,No,No,"Eye Gaze (vergence)
+Eye Deformation","Study the influence of socket-deformation and vergence on the accuracy of Point of Regard identification and the perceived authenticity of the high-fidelity avatar.
+accuracy decreased under socket-deformation and vergence conditions, but highly dependent on viewing camera angle",Agent,No,"Point-of-Regard Identification,
+Beliefs/Illusions (Perception of Authenticity)",48 participants (24 male),Medium,Medium,Kangsoo,2013-02-20,v
+144,"Nguyen, Hien
+Masthoff, Judith",2009,International Conference on Persuasive Technology (Persuasive),Designing Empathic Computers: The Effect of Multimodal Empathic Feedback Using Animated Agent,Yes,No,Yes,"Emotiveness-Empathy (r) 
+Expressivity (r)","Priming: The subjects are led to believe that they are going to take part in a study of verbal skills and web credibility judgement.
+
+Study about participants' reactions and feelings in terms of agent's empathy and expressivity.",Agent,No,"behavioural, and subjective reactions.","84 students and staff of the university (37 males, 47 females; average age: 25.4 years, stdev: 7.9 years) 
+compensation: £5 voucher",High,High,Kangsoo,2013-02-20,v
+145,"Vossen, Suzanne
+Ham, Jaap
+Midden, Cees",2009,International Conference on Persuasive Technology (Persuasive),Social Influence of a Persuasive Agent: The Role of Agent Embodiment and Evaluative Feedback,Yes,No,No,"Physical Shape (sc)
+Talk/Speak (p)
+Facial Expressions (sc)","Users get feedback about energy consumption from either an embodied agent or a computer after using a laundry machine, and find out the difference in behavior change in the study.
+Men did not care whether the feedback was given by a computer or by an embodied agent. However, women who interacted with the embodied agent used less energy than women who interacted with the computer.",Agent,No,Behaviors (less energy consumption),"76 students (51 male, 25 female),
+age: 18 to 25 years (M = 19.88, SD = 1.97).
+compensation:  € 5
+experiment time: 20 mins",Medium,Low,Kangsoo,2013-02-20,v
+146,"Narita, Tatsuya
+Kitamura, Yasuhiko",2010,International Conference on Persuasive Technology (Persuasive),Persuasive Conversational Agent with Persuasion Tactics, N/A, N/A,Yes,"Persuasion
+Talk/Speak (r)","(Priming) (Wizard of Oz) a person preteding to be an agent
+1st exp:60 subjects, the agent + Wizard succeeded to persuade 25 (42%)
+2nd exp:the agent that used the conversation model created in the 1st exp succeeded in persuading one user (out of 10) w/o help from the Wizard; another 2 subjects were persuaded with some assistance by the Wizard. The experiments show that the persuasive conversational agent looks promising. (mh:??!!)", Mixed,N/A,"Behaviors( Performance of persuasion
+Burden of the Wizards )",60 for 1st exp. 10 for 2nd exp., Low, Low,Myungho,2013-02-20,
+147,"Midden, Cees
+Ham, Jaap",2012,International Conference on Persuasive Technology (Persuasive),The Illusion of Agency : The Influence of the Agency of an Artificial Agent on Its Persuasive Power,Yes, No,Yes,Agency (r),"- participants consumed less energy when a robotic social agent gave them feedback than when they received non-social feedback
+- the persuasive power of robot behavior is independent of the extent to which the persuadee explicitly ascribes agency to the agent.
+- people’s implicit reactions (behavior when interacting with computers) and explicit responses when directly asked about computers differ from each other.
+- embodied virtual agents (EVA’s) in social interaction has led to two views: 1) the Computer As Social Agents (CASA) paradigm, 2) the Threshold Model of Social Influence", Mixed,No,"Behaviors(Energy consumption/persuasion),
+Thoughts (Agency, social characteristics)","Eighty-four participants (55 men and 29 women, average age = 21.4 years, SD = 3,5)", Medium, Medium,Myungho,2013-05-22,
+148,"Heerink, Marcel
+Kröse, Ben
+et al.",2010,Virtual Reality Journal,Relating Conversational Expressiveness to Social Presence and Acceptance of an Assistive Social Robot,Yes, No,Yes,"Eye Gaze (p)
+Talk/Speak (r)
+","""wizard of oz"" Agent with less social and more social
+- There is a correlation between social presence and conversational expressiveness. There is no correlation, however, between intention to use and conversational expressiveness.
+- There is a clear difference between the more social and less social condition both in total expressions and in the total amount of expressions that were categorized as positive.", Avatar,No,"Behaviors(non-verbal forms of conversational expressiveness)
+Thought / Illusion for measuring acceptance (intention to use, social presence)","Participants were elderly people (17 male, 23 female) between 65 and 96 years old, living in eldercare institu- tions in the cities of Lelystad and Loosdrecht, in the Netherlands.", Medium, Medium,Myungho,2013-05-20,
+149,"Nassiri, Nasser
+Powell, Norman
+Moore, David",2010,Virtual Reality Journal,Human Interactions and Personal Space in Collaborative Virtual Environments, No, No, No,"Proxemics (sc)
+Gender effect","Collaborative Virtual Environment (CVE)
+
+This study was carried out in a non-immersive envi-ronment(Active worlds).
+The participants in general didnot register high anxiety when their personal space wasinvaded, as might be expected from personal space inva-sion in physical environments which tends to cause anxietyand discomfort.
+Most of the participants in the interviews suggested that their experience of personal space invasion would not be influenced by the level of realism of the CVE in general.", Avatar,No,"Behaviors(observational study in Activeworlds)
+Thought(Personal space invasion anxiety level)","40 participants (20 males and
+20 females) (age: 20-23)", Low, Low,Myungho,2013-02-26,
+150,"Riva, Giuseppe",2009,Virtual Reality Journal,Is Presence a Technology Issue? Some Insights from Cognitive Sciences,N/A,N/A,N/A,N/A,,N/A,N/A,N/A,N/A,N/A,Medium,Kangsoo,2013-02-20,
+151,"Yuan, Ye
+Steed, Anthony",2010,IEEE Virtual Reality Conference (VR),Is the rubber hand illusion induced by immersive virtual reality?, N/A, N/A, No,"
+Anthropomorphic Appearance (sc)
+Synchronization of Stimuli (sc)
+Graphical Fidelity (sm)
+Tracking Accuracy (sm)
+Physical Shape (sm)","They induced the rubber hand illusion in the virtual reality environmens. 
+there is no significant impact of the distortion of tracking, so in the main we present the results comparing only two Virtual Hand conditions versus the two Arrow Conditions.", Avatar,Yes,"Physiology( GSR )
+Illusion ( via bodyownership questionnaire )","20 (m:7, f:13)",High, Medium,Myungho,2013-02-21,
+152,"Ogawa, Kohei
+Taura, Koichi
+Nishio, Shuichi
+Ishiguro, Hiroshi",2012,IEEE RO-MAN,Effect of perspective change in body ownership transfer to teleoperated android robot, N/A, N/A, No,"Responsiveness / Latency (r)
+Synchronization of Stimuli (sc)
+Physical Shape (sm)","In this paper we focus on the 
+operator’s visual sensation to clarify the relationship between 
+body ownership transfer and visual feedback to operators.
+The result showed that not only the first-person view but also the third-person and the  mirror views might cause  body ownership transfer", Avatar,Yes,"Physiology( GSR )
+Illusion ( via bodyownership questionnaire )","43 healthy, right-handed participants (25 men, 18 
+women)", Medium, Medium,Myungho,2013-02-22,
+153,"McDonnell, Rachel
+Breidt, Martin
+Bülthoff, Heinrich H.",2012,ACM Transactions on Graphics,Render me Real? Investigating the Effect of Render Style on the Perception of Animated Virtual Humans,Yes, No, No,"Anthropomorphic Appearance (sc)
+Facial Expressions (sc)
+Dynamic vs. Static Surrogate","Highly realistic and highly abstract styles were considered appealing, whether still or moving.
+ Render styles that were in the middle of the range between abstract and realistic were considered unappealing, and the most unappealing character was considered even more so when motion was applied.
+Rendering style did not bias ‘truth’ responses, and that lies and truths were perceived on real and virtual characters in the same way",Agent,No,"Trust (does rendering style influence trust)
+Build rapport so surrogate is perceived as appealing and friendly.
+
+",34 university volunteers,High,High,Remo,2013-02-22,
+154,"Bailenson, Jeremy N.
+Fox, Jesse
+Ricciardi, Tony
+",2012,Journal of Cybertherapy and Rehabilitation,Physiological Responses to Virtual Selves and Virtual Others,Yes,Yes,No,"Avatars
+Immersive Virtual Environments
+Virtual Agents
+Virtual Reality
+Cybertherapy","Immersive virtual environment. Researchers measured skin conductance in 4 conditions: while participants viewed a self-similar agent running, a self-similar agent loitering, a dissimilar other agent running, and a dissimilar other agent loitering (in randomized order). The most conductance occured with the self-simmilar agent running, which explains other studies showing that this VR exposure increases exercise in RL. Significant conductance also occured while viewing the dissimilar other loitering, possibly due to uncomfortability with a stranger.",Agent,No,"Physiology (amount of skin conductance) 
+Measured via Ag/Agl electrodes through Thought Technology ProComp Infiniti software","10 participants ages 18-29 (5 men, 5 women)",High,Medium,Jenna,2013-04-11,
+155,"Segovia, Kathryn
+Bailenson, Jeremy",2012,Social Influence,Virtual Imposters: Response to Avatars That Do Not Look Like Their Controllers,Yes,Yes,Yes,"Anthropomorphic Appearance (sc)
+Emotiveness (r)
+Situational Plausibilit (sc)","All 3 experiments test participants aggressive reactions to interaction with 2 others in a ball tossing game. Participants told that one of the others in the game disguised their identitiy and the other revealed what they really look like via avatars. These were really agents, and they ostracized the participant by not passing the ball in the game. Participants allocated more hot sauce to those ostracized them and specifically the ostracizers who disguised their identities. Hot sauce = measure of aggression. ",Agent,No,aggression (grams of hot sauce allocated),"Experiment 1 = 20 (7 male, 13 female)
+Experiment 2 = 23 (6 male, 17 female)
+Experiment 3 = 56 (25 male, 31 female)
+student from a West Coast University",High,High,Jenna,2013-04-11,
+156,"Bailenson, Jeremy N.
+Blascovich, Jim
+Loomis, Jack M.
+Beall, Andrew C.",2003,Personality and Social Psychology Bulletin ,Interpersonal Distance in Immersive Virtual Environments,Yes,Yes,Yes ,"Agency (i)
+Eye gaze (i)
+Body pose and gestures (s,i)
+Proxemics (s)
+Responsiveness/latency (r)
+","Two experiments tested participants reactions to a virtual avatar/agent in a virtual room with them. Independent variables included virtual human gender (within-subject factor) and gaze behavior, participant gender, and agency (between subject factors). Participants significantly kept greater distance from female virtual humans than male. Maintained greater distance from virtual humans who maintained mutual gaze, but only in agent condition. Better recal with avatar virtual humans. Experiemtn 2 looked at how far away participants moved when virtual human invaded their personal space. Moved further with an agent vs. avatar.",Agent (some participants told it was an avatar),Yes,"Distance from virtual human (preferences, recall and emotion ratings) ","Experiment 1 = 80 students from an introductory psychology class (ages 18-30)
+Experiment 2 = 80 students from an introductory psychology class (ages 18-25)",High,High,Jenna,2013-04-11,
+157,"Bailenson, Jeremy N.
+Fox, Jesse",2009,N/A,Virtual Virgins and Vamps: The Effects of Exposure to Female Characters' Sexualized Appearance and Gaze in an Immersive Virtual Environment,Yes,Yes,Yes,"Eye gaze (p)
+Synchronization of stimuli (a)
+Emotiveness (r)
+
+","Immersive Virtual Environment (IVE)
+Study exposes participants to either a suggestively clad, high gaze (vamp) or conservatively clad, low gaze (virgin) virtual female. The former reinforces negative attitudes toward women, and the latter does not.",Agent,N/A,agreement rates on 1-5 scale (sexism and rape myth acceptance) ,83 students from a medium-sized West Coast University (age 18-34),Medium,High,Jenna,2013-04-11,
+158,"Bailenson, Jeremy N.
+Davies, A
+Beall, A.C.
+Blascovich, J.
+Guadagno, R.E.
+McCall, C.",2008,Presence,"The Effects of Witness Viewpoint Distance, Angle, and Choice on Eyewitness Accuracy in Police Lineups Conducted in Immersive Virtual Environments",Yes,Yes,No,"Anthropomorphic Appearance (sc), Anthropomorphic Face and Facial Expressions (a), Situational Plausibility (a), Agency (i, p), Graphical Fidelity (sm), Display Technology (sm)","Subjects witnessed a staged crime in real life and then looked at virtual lineups with 3D busts (head and shoulders). Subjects could either have unlimited view of the agents or a unitary view with one angle and set distance. Subjects also either choose the viewpoints they received or not. Unlimited views produced more accuracy in identifying subjects when present but not when absent. When chosen viewpoints were similar to viewpoints of the crime, accuracy also improved. Subjects were overall more accurate in subject-absent conditions than subject-present.",Agent,N/A,"Accuracy, confidence, interpersonal distance, perpetrator presence (how many times subjects indicated susupects were there)","98 Stanford undergraduate students (52m, 46f)",Medium,High,Jenna,2013-04-11,
+159,"Gary Bente
+Sabine Rüggenberg
+Nicole C. Krämer
+Felix Eschenburg",2008,Human Communication Research,Avatar-Mediated Networking: Increasing Social Presence and Interpersonal Trust in Net-Based Collaborations, No,Yes, No,Social Presence,A study analyzing the influence of avatars on social presence in collaborative environments happening in real-time., Avatar,N/A,varied,150, Medium,High,Joy,2013-04-13,
+160,"B. Becker
+G. Mark",1999,Virtual Reality Journal,Constructing Social Systems through Computer-Mediated Communication, No,Yes, No,Social Presence ,Can computer-mediated communication support the formation of genuine social systems? , Avatar,No,N/A,N/A, Medium, Medium,Joy,2013-04-13,
+161,"Gary Bente
+Felix Eschenburg
+Nicole. C. Krämer",2007,Lecture Notes in Computer Science,Virtual Gaze. A Pilot Study on the Effects of Computer Simulated Gaze in Avatar-Based Conversations, No,Yes, No,"eye gaze (p)
+",Intro of a specific methodology for the computer simulation of gaze behavior in net-based interactions and relevant (interesting) results., Avatar,No,Longer gaze duration was found to cause significantly better evaluations of the interaction partners and higher levels of co-presence.,"38, women only", Medium, Medium,Joy,2013-04-15,
+162,"Andry Rakotonirainy
+Frank Feller
+Narelle L. Haworth",2008,Pervasive,Using In-Vehicle Avatars to Prevent Road Violence, No,Yes, No,"Eye gaze (p)
+Anthropomorphic Face and Facial Expressions (a)
+
+", Eye gaze is a social cue affecting collective decision making which could contribute substantially to safe driving. , Avatar,No,In-vehicle avatars can objectively reduce road rage and improve road safety.,12 researchers and students,High, Medium,Joy,2013-04-15,
+163,"Bailenson, Jeremy N.
+Yee, Nick
+Blascovich, Jim
+Beall, Andrew C.
+Lundblad, Nicole
+Jin, Michael
+",2008,The Journal of the Learning Sciences,"The Use of Immersive Virtual Reality in the Learning Sciences: Digital Transformations of Teachers, Students, and Social Context
+",No,Yes,No,"Eye gaze (p)
+Agency (i)
+Body pose and gestures (p)
+","Set of experiments that attempts to improve classroom learning through augmented social perception. Teachers received warnings of student need for eye gaze, students had augmented perception of where they were in relation to teachers, and inserting virtual students/agents altered participants learning abilities.",Agent,N/A,"students in center performed better than students in periphery, men performed better than women, students moved to periphery after sitting in center most likely to ignore teacher, ","1: 40 (20 m, 20 w)
+2: 32 Stanford University students (16 w, 16 m)
+3: 44 Stanford students (20 w, 24 m)
+4: 82 undergrad students",Medium,High,Jenna,2013-04-21,
+164,"Paul Skalsi
+Ron Tamborini",2007,Media Psychology,"The Role of Social Presence in Interactive Agent-Based Persuasion
+",Yes,Yes, No,"Responsiveness / Latency (o), Interactivity, Attraction",How agents can be used to create social presence,Agent,N/A,Interactivity can greatly increase social presence,"125 ""midwestern university"" undergrads",High, Medium,Joy,2013-04-19,
+165,Mark Peterson,2005,PacCALL Journal Volume 1,Learning Interaction in an Avatar-Based Virtual Environment: A Preliminary Study,No,No,No,"Emotiveness (p), Responsiveness / Latency (o)",A preliminary study on non-native speaker interaction in the avatar-based ActiveWorlds environment.,Avatar,No,Participants began to modify their behavior after interaction with avatars according to previous research findings.,15 students from a university in Tokyo,Medium,Medium,Joy,2013-04-19,
+166,"Jeremy Bailenson
+Kathryn Segovia",2009,Online Worlds,Virtual Doppelgangers: Psychological Effects of Avatars Who Ignore Their Owners,Yes,Yes,No,"Physical Shape (s), Anthropomorphic Face and Facial Expressions (a)
+
+",Paper on how avatars become doppelgangers and explanation of current results from studies on this topic,Avatar,Yes,N/A,N/A,High,High,Joy,2013-04-19,
+167,"Bailenson, Jeremy N.
+Yee, Nick
+",2007,N/A,Virtual interpersonal touch: Haptic interaction and copresence in collaborative virutal environments ,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a)
+Haptic/tactile interactions (o)
+Anthropomorphic appearance (sc)","Participants used a haptic device to ""clean"" virtual humans or virtual cyllinders. People were touched with less force than nonhumans, faces were touched with less force than torsos, and females were touched with less force than males. ",Agent,N/A,force applied on haptic device (less for human agents than nonhuman agents),"40 undergraduates (23f, 17m)",Medium,High,Jenna,2013-04-27,
+168,"Okita, Sandra Y.
+Bailenson, Jeremy N.
+Schwartz, Daniel L.",2007,N/A,The Mere Belief of Social Interaction Improves Learning,No,Yes,Yes,"Agency (i)
+Anthropomorphic appearance (sc)
+Emotiveness (r)",Participants studied a passage and were told they would teach it. They built relationship with confederate and interacted with them in posttest. Told that confederate was either avatar or agent. Participants performed better and had increased arousal with avatars versus agents. ,Agent,N/A,"Behavior/Performance (test scores), Physiology (skin conductance)",35 adults,High,High,Jenna ,2013-04-27,
+169,"Yee, Nick
+Bailenson, Jeremy N.
+Rickertsen, Kathryn",2007,N/A,A Meta-Analysis of the Impact of the Inclusion and Realism of Human-Like Faces on User Experiences in Interfaces ,No,No,No,"Situational Plausibility (a), Responsiveness/Latency (o), Anthropomorphic Face and Facial Expressions (a)","Meta-analysis examines a large number of studies that compare interfaces with and without embodied agents. Results showed significantly larger effects with subjective responses (questionnaires, interviews) than behavioral responses (performance, memory). Effects were stronger for adding a face to an interface than adding animation to an agent to make it behave more realistically. These effect only account for 2.5% of the variance, however. ",Agent ,N/A,"Assimilated means and standard deviations of each condition, number of participants in each condition, year of publication, country, platform (immersive or desktop); subjective and behavioral measures of representation and realism",46 studies (only 25 studies had statistics that factored in),High,High,Jenna,2013-04-29,
+170,"C. D. Kidd
+C. Breazeal","2005 (?)
+reviewed to CHI 2003(?)",CHI (?),Comparison of Social Presence in Robots and Animated Characters,Yes,Yes,Wizard of Oz,"Physical shape--Eye (sm)
+Eye Gaze (p)","Comparison of user’s responses to three different types of characters: robots, animated characters, and human. They measured user's response with questionnaire, which mainly asked four aspects: qualities of the interactions, subject responses to interactions, engagement, and description of characters. In general, the score is in order human > robot > animated character. However, in some questions, participants preferred robot and animated character to human because they got uncomfortable with interacting with another strange human at close range.",Avatar,No,"Social Presence
+Engagement","32 (male: 16, female: 16)",High,Medium,Kangsoo,2013-04-29,
+171,"Bailenson, Jeremy N.
+Yee, Nick",2007,N/A,Virtual Interpersonal Touch and Digital Chameleons ,Yes,Yes,No,"Haptic/Tactile Interactions (sm), Responsiveness/Latency (o), ","Study examines handshake mimicry using a tactile device. Participants used a feedback joystick device to measure their baseline handshake. 2 participants then greeted each other and felt their handshakes through the device. In 1 condition, participants actually felt their own handshake but thought it was the other participant's. Results showed that angle/speed and position correlated for individuals, gender differences in those areas, and male participants liked people who mimicked their handshakes more than females did. ",Agent/Avatar,No,"Angle, position, speed, and acceleration of handshakes; personality factors (Big 5, self-esteem, shyness, liking); negotiation; mimicry detection","90 undergraduate students (42m, 48f)",Medium,High,Jenna,2013-04-29,
+172,"C. Breazeal, C. D. Kidd, A. L. Thomaz, G. Hoffman, and M. Berlin",2005,IEEE/RSJ International Conference on Intelligent Robots and Systems,Effects of nonverbal communication on efficiency and robustness in human-robot teamwork,Yes,No,No,"Eye Gaze (p)
+Eye Gaze (r)
+Body Pose and Gestures (p)
+Cooperative Behavior (r)
+Facial Expressions (sc)","Authors study influence of non-verbal social cues and behavior on task performance of human guiding robot. Implicit non-verbal communication (gaze following, head nod/shake, confusion gesture, eye blinks, etc.) of the robot positively impacts task performance --> understandability of robot, efficiency, robustness to errors",Agent,No,"Cooperation Behavior
+Task Performance
+Error Recognition","21 campus subjects (10 males, 11 females) 20 - 40 yo",High,Medium,Remo,2013-05-01,
+173,"C. Breazeal, A. Wang, and R. Picard",2007,ACM/IEEE International Conference on Human-Robot Interaction (HRI),"Experiments with a robotic computer: body, affect and cognition interactions",Yes,No,Yes (users were shown video that induced neutral affect),Body Pose and Gestures (r),"Paper presents RoCo (robotic computer), which can move its monitor to imitate posture. Interesting background on influence of human posture on affective and cognitive performance. RoCo's posture is shown to manipulate the user's posture, thus having an effect on increased persistence on cognitive task and comfort. Not directly related to our research, but emphasizes importance of how the surrogate reacts to the affects and moods of a user.",N/A,No,"Task Performance
+Affect
+Cognitive Persistence
+Comfort","71 MIT students (31 females, 40 males)",Low,Medium,Remo,2013-05-01,
+174,C. D. Kidd and C. Breazeal,2004,IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No.04CH37566),Effect of a robot on user perceptions,Yes,Yes,Wizard of Oz,"Physical shape--Eye (sm)
+Eye Gaze (p)","Follow-up study of ""Comparison of Social Presence in Robots and Animated Characters""
+Study how robot's physical presence influences a person's perception (engagement and perception).
+Robot was more engaging, enjoyable to interact with, and more informative and credible than animated character. Why? are the animated characters seen as real, but not present, or are they viewed as not real and simply a fictional character portrayed on the screen?
+In this study, they conclude the difference does not come from the presence of the robot, rather it isthe fact that the robot is a real, physical thing, as opposedto the fictional animated character in the screen, that leads people to respond differently.",Avatar,No,Engagement and Perception,"within-subject, repeated measures.
+[1st study] 32 participants (age: 18-47, mean: 27, sd: 9), half male/half female, 9% asian, 3% african, 3% hispanic, 3% other. Student and professionals. None of them had seen the robot or animated character before.
+[2nd study] 82 participants (age: 18-61, mean: 27.7 sd: 9.7)",High,High,Kangsoo,2013-05-01,
+175,A. L. Thomaz and C. Breazeal,2006,Intelligent Virtual Agents,"Teachable characters: User studies, design principles, and learning performance",,,,,,,,,,,,Kangsoo,2013-05-01,
+176,"B. Auyeung, S. Wheelwright, C. Allison, M. Atkinson, N. Samarawickrema, and S. Baron-Cohen",2009,Journal of autism and developmental disorders,The children’s Empathy Quotient and Systemizing Quotient: sex differences in typical development and in autism spectrum conditions,,,,,,,,,,,,Ryan,2013-05-01,
+177,S. Baron-Cohen and S. Wheelwright,2004,Journal of autism and developmental disorders,"The empathy quotient: an investigation of adults with Asperger syndrome or high functioning autism, and normal sex differences",,,,,,,,,,,,Ryan,2013-05-01,
+178,"K. Shinozawa, F. Naya, J. Yamato, and K. Kogure",2005,International Journal of Human-Computer Studies,Differences in effect of robot and screen agent recommendations on human decision-making,Yes,Yes,Participants did not know the exact purpose of the experiment. They were told that main purpose was to investigate the relationship between color region and color name.,"Body Pose and Gestures (r)
+Display Technology (sm)","This paper compares the effect of a robot’s and on-screen agent’s recommendations on human decision-making using a quantitative evaluation method. In the experiment, participants should decide the name of the displayed color. There were three conditions: no agent, 2D screen agent, and 3D physical robot. Agent suggested the name of the color. The degree of the effect depends on the consistency of the dimensionality between the environment and the agents.",Agent,No,Decision making to decide the name of the displayed color,178 participants,High,Medium,Kangsoo,2013-05-02,
+179,"Bailenson, Jeremy N.
+Garland, Philip
+Iyengar, Shanto
+Yee, Nick
+",2006,Political Psychology,Transformed Facial Similarity as a Political Cue: A Preliminary Investigation,Yes,Yes,Yes,"Emotiveness (r), Facial Expressions (sc), Graphical Fidelity (sm)",Subjects saw a picture of a political candidate. Some subjects saw a picture of the candidate (60% blend) morphed with their own faces (40% blend). The rest of the subjects saw an unaltered picture of the candidate. Results showed no significant effect for the morphed picture. Male subjects did rate the morphed photograph more positively than the unaltered photograph while female subjects rated their morphed photographs more negatively. ,Agent,No,"Subject intention to vote for candidate, subjects trait rating of the candidate",72 undergraduate students,Medium,High,Jenna,2013-05-06,
+180,"Deng, Zhigang
+Bailenson, Jeremy 
+Lewis, J.P.
+Neumann, Ulrich
+",2006,6th International Conference on Intelligent Virtual Agents,Perceiving Visual Emotions with Speech,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Emotiveness (p), Graphical Fidelity (sm), Display Techonology (sm)","Study examines the perception of emotion on a speaking agent. Recorded video and 3D motion of facial expressions of an actress with different emotions. Subjects identified and rated the stimuli based on the recorded footage. Technology also objectively analyzed emotional data. Results showed that machine learning facial data is correlated with subjects evaluations, and the lower facial region gives emotional clues for visual perception of affect. ",Agent,No,"Evaluations of emotions: neutral, anger, sadness, happiness for whole face, upper face, and lower face regions","25 undergraduate student volunteers (11m, 14f)",Medium,High,Jenna,2013-05-06,
+181,"Bailenson, Jeremy N.
+Beall, Andrew C.
+Loomis, Jack
+Blascovich, Jim
+Turk, Matthew",2005,Human Communication Research,"Transformed Social Interaction, Augmented Gaze, and Social Influence in Immersive Virtual Environments",Yes,Yes,No,,"A presenter read aloud a persuasive message to two participants in different gaze conditions, including augmented gaze where the presenter appears to only be looking at each participant at the same time. Women agreed more with message in augmented gaze conditions. Men recalled more verbal information than women. ",Avatar/Agent,N/A,"Participant scores:
+% time estimation presenter looked at them/other participant/no one, ANOVA agreement score, ANOVA recall score, ANOVA social presence, detection of augmented gaze",72 college students in an introductory psychology class; age 18-25,High,High,Jenna,2013-05-06,
+182,"Bailenson, Jeremy N.
+Yee, Nick",2005,Psychological Science,Digital Chameleons: Automatic Assimilation of Nonverbal Gestures in Immersive Virtual Environments,Yes,Yes,No,"Anthropomorphic Appearance (sc), Body Pose and Gestures (r), Agency (i), Talk/speak (p)","Agent verbally presented an argument to participants in virtual reality. An agent either mimicked the participant's head movements with a 4 second delay or played back another participant's head movements. Mimicking agents were more persuasive and received more positive trait ratings than nonmimickers (chameleon effect), even though participants were unable to detect the mimicry. ",Agent,N/A,"Scores for social presence, participant agreement with agent (agent persuasiveness), and agent impression (on participants). Analysis of variance for these 3 independent variables and agent's effectivness for the dependent variable. ","69 college students enrolled in an introductory communication class (47 f, 22m)",High,High,Jenna ,2013-05-06,
+183,"Turk, Matthew
+Bailenson, Jeremy N. 
+Beall, Andrew
+Blascovich, Jim
+Guadagno, Rosanna
+",2005,ACM Sixth International Conference on Multimodal Interfaces (ICMI),Multimodal Transformed Social Interaction,Yes,Yes,No,"Eye Gaze (p/r), Agency (i), Anthropomorphic Appearance (sc), Body Pose and Gestures (r)","Eye gaze was manipulated so that each participant in a three-person CVE received eye gaze from a presenter that was normal, less than normal, or greater than normal. (Focused on non-zero sum gaze, which is when the amount of gaze given is not equal to the amount received.) Participants generally thought they received more eye gaze from the presenter than the other participants. ",Avatar/Agent,N/A,"Participant scores:
+ANOVA presenter awareness (of participants), ANOVA agreement score (with summaries), ANOVA recall score, time estimation - presenter looking at them/other participant/no one",72 college students enrolled in an introductory psychology class; age 18-25 ,High,High,Jenna,2013-05-06,
+184,"Lee Sproull
+Mani Subramani
+Sara Kiesler
+Janet H. Walker
+Keith Waters",1996,Human-Computer Interaction,When the Interface is a Face,No,No,No,Anthropomorphic Face and Facial Expressions (a) & (sc),The beginnings of literature on designing computer interfaces to behave the way people do or to be perceived as closer to human than they would without interference.,Agent,No,Study shows evidence that people who interacted with the talking-face display computers attributed some personality to the computer than people who interacted with text-only display computers. ,130 Boston University Students,Medium,High,Joy,2013-05-06,
+185,"Karl F. MacDorman
+Robert D. Green
+Chin-Chan Ho
+Clinton T. Koch",2009,Computers in Human Behavior,Too Real for Comfort? Uncanny Responses to Computer Generated Faces,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Physical Shape (s), Body Pose and Gestures (p) ","This a series of studies interested in uncovering specific characteristics that define the ""uncanny valley"", specifically looking at subjects' perceptions of photorealistic faces and their properties.",Agent,No,"Results from the 4 studies reveal that texture photorealism and polygon count increase the perception of human resemblence, that atypical facial proportions are perceived as more disturbing on photorealistic faces than other faces, and that a mismatch in eye size or texture and face was highly likely to cause feelings of discomfort (ie uncanny valley).","3,294 Midwestern university undergraduates",High,High,Joy,2013-05-06,
+186,"Karl F. MacDorman
+Robert D. Green
+Chin-Chan Ho
+Sandosh Vasudevan",2008,Computers in Human Behavior,Sensitivity to the Proportions of Faces that Vary in Human Likeness,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Physical Shape (s), Body Pose and Gestures (p) ","This study sought to uncover the best design principles for successful interaction between humans and avatars by measuring subjects' responses to varying facial proportions in people, androids, mechanical-looking robots, and two and three-dimensional characters.",Agent,No,"Participants showed greater agreement on the best proportions of faces 
+they considered more humanlike and more attractive and less tolerance 
+for deviation from these proportions in more attractive faces. An uncanny valley was found when 
+participants were most ambivalent about the human likeness of a face.","208 subjects recruited by email, newsgroup postings, and direct contact.",Medium,High,Joy,2013-05-06,
+187,"Lingyun Qiu
+Izak Benbasat",2009,Journal of Management Information Systems,Evaluating Anthropomorphic Product Recommendation Agents: A Social Relationship Perspective to Designing Information Systems,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Agency (i), Auditory Stimuli (o), Talk/Speak (p), Cooperative Behavior (r)",This study applies a social relationship perspective to its design as it seeks to better the interfaces of PRA's (product recommendation agents) by using humanoid embodiment and voice output to increase subjects' perceptions of a social relationship with a technilogically-based object.,Agent,No,"Using the humanoid embodiment and voice-based communication significantly influences users' perceptions of social presence and seemed to enhance in turn the users' trusting beliefs, perceptions of enjoyment and intentions to use the agent.","168 participants (155 undergraduate students, 8 graduate students, 5 staff members). 166 used internet for >4 years; 137 used internet for >7 years.",Medium,High,Joy,2013-05-06,
+188,"Amy Baylor
+Yanghee Kim",2003,"World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education (ELEARN)",The Role of Gender and Ethnicity in Pedagogical Agent Perception,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Physical Shape (s), Responsiveness/Latency (r), Feedback (p), Situational Plausibility (sc)",Investigation of the role of pedagogical agent gender and ethnicity. ,Agent,Subjects responded better to agents whose shared their ethnicity.,"Male agents perceived as more extraverted and agreeable than female agents. In learning contexts, subjects who worked with male agents reported greater satisfaction with their performance and reported that the agent better facilitated self-regulation. Students who worked with agents of the same ethnicity peceived the agents to be more engaging and friendly. Female students perceived African-American agents to be more open to new things than Caucasian agents, but the opposite was true for male students (subjects).",139 students,Medium,Medium,Joy,2013-05-06,
+189,"Jun Xiao
+John Stasko
+Richard Catrambone",2004,AAMAS '04 Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems - Volume 1 ,An Empirical Study of the Effect of Agent Competence on User Performance and Perception,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Incremental Interpretation/Early Feedback (p), Spontaneous Actions (p), Responsiveness/Latency (r), Cooperative Behavior (r)",Study on subjects' evaluation of an interface agent that helped them learn and use a text editing program.,Agent,No,"Perceived utility of the agent was influenced by the types of errors it 
+made and the style of its assistance.","51 Georgia Tech undergraduates (31 male, 20 female) with a variety of majors and computer experience.",Medium,Medium,Joy,2013-05-06,
+190,"Kwan Min Lee
+Namkee Park
+Hayeon Song",2005,Human Communication Research,Can a Robot Be Perceived as a Developing Creature?,Yes,Yes,No,"Situational Plausibility (a), Eye Gaze (i), Body Pose and Gestures (s, i), Physical Shape (s), Responsiveness / Latency (o), Spontaneous Actions (p)",Study tests the effect of long-term artificial development of a robot on users’ feelings of social presence and social responses towards the robot.,Agent,No,"Subjects assigned a ""developing"" agent positively perceived AIBO (Sony's robotic dog) as lifelike, had greater feelings of social presence, and showed social responses to AIBO.",40 college students,Medium,High,Joy,2013-05-06,
+191,"H. S. M. Cramer, N. A. Kemper, A. Amin, and V. Evers",2009,ACM/IEEE international conference on Human robot interaction - HRI,The effects of robot touch and proactive behaviour on perceptions of human-robot interactions,Yes,Yes,No,"Body Pose and Gestures (p, r)
+Haptic / Tactile Interactions (sm)","Proactive robots are seen as less machine-like when their interaction is complemented with tactile interaction.
+However, physical contact with a reactive robot made it appear less dependable.
+Only participants with a positive attitude towards robots found the robot to be more like a machine when it did not touch the user. In general, these participants also perceived the robot as more human-like and closer to the user.",N/A (video clip of interaction between a user and a robot),No,participants’ attitudes towards avideo of an interaction between a user and a robotic assistant.,"2x2 between-subject survey experiment (N=119)
+119 participants (predominantly Dutch, 19 female, age M=25,r=14-55)",Medium,Low,Kangsoo,2013-05-07,
+192,"Yee, Nick
+Bailenson, Jeremy N.
+Urbanek, Mark
+Chang, Francis
+Merget, Dan",2007,CyberPsychology & Behavior,The Unbearable Likeness of Being Digital: The Persistence of Nonverbal Social Norms in Online Virtual Environments ,Yes,Yes,No,"Eye Gaze (r), Anthropomorphic Appearance (sc); Body Pose and Gestures (r)","Observational study in Second Life analyzing social norms of gender, interpersonal distance (IPD) and eye gaze. Specifically looked at gender (male-male, femal-female and mixed dyads) and location (indoor/outdoor). Results show male-male dyads have larger IPDs and less eye contact than female-female dyads. Decreases in IPD compesated with gaze avoidance - consistent with Equilibrium Theory. Avatars more likely to maintain eye contact indoors than outdoors.",Avatar,N/A,interpersonal distance (IPD - the distance maintained between avatars) and mutual gaze (if avatars looked at each other),Undergraduate college students were assigned to 115 zones in Second Life; snapshot samples led to 835 dyads for analysis (at least two people interacting per dyad),Medium,High,Jenna,2013-05-19,
+193,"Bailenson, Jeremy N.
+Beall, Andrew C.
+Loomis, Jack
+Blascovich, Jim
+Turk, Matthew",2004,Presence,Transformed Social Interaction: Decoupling Representation From Behavior and Form in Collaborative Virtual Environments,Yes,Yes,Yes,"Body Pose and Gestures (p), Agency (i), Responsiveness/latency (o), Anthropomorphic Appearance (sc)","Manipulated 3 independent variables: test trial length (either 16 or 32 seconds), mimic delay (computer-agent mimics either 1, 2, 4, or 8 seconds after judge’s movements) and range of motion (high: pitch, yaw, and roll, or low: yaw only). Some participants were told that computer agent was mimicking them but were still mostly unable to identify who the human avatar was. As mimic delay increased, the harder it was to detect.",Avatar/Agent,N/A,"Identify human avatar vs. computer agent, identify mimicker",41 undergraduates,Medium,High,Jenna,2013-05-19,
+194,"Bailenson, Jeremy N.
+Aharoni, Eyal
+Beall, Andrew C.
+Guadagno, Rosanna E.
+Dimov, Aleksandar
+Blascovich, Jim",2004,7th Annual International Workshop on PRESENCE,Comparing Behavioral and Self-Report Measures of Embodied Agents' Social Presence in Immersive Virtual Environments,Yes,Yes,No,"Agency (r), Emotiveness (p), Body Pose and Gestures (r)","Study compares subjective questionnaire measures and behavioral measures of copresence. In 2 studies, researchers measured interpersonal distance between subjects and a tutoring agent or unfamiliar agent. Subjects yielded more personal space to embodied tutors, but subject self-reports of copresence, status, likeability, and interest were not significantly different for the different agents. Concludes that nonverbal behavior could be more sensitive in measuring copresence and agent influence. ",Agent,No,"Interpersonal distance between subjects and agents; self-reports of copresence, status, interest, and likeability","72 UCSB psychology students (36m, 36f)",Medium,High,Jenna,2013-05-20,
+195,"Bailenson, Jeremy N.
+Beall, Andrew C.
+Blascovich, Jim
+Rex, Christopher",2004,Presence,Examining Virtual Busts: Are Photogrammetrically Generated Head Models Effective for Person Identification?,Yes,Yes,No,"Anthropomorphic Appearance (a), Anthropomorphic Face and Facial Expressions (p), Display Technology (sm), Graphical Fidelity (sm)",A set of 11 studies presented photographs of people to subjects and tested them on face recognition from different angles and from different media (analog photographs or virtual model photographs). Subjects had increased recognition of analog photographs compared to virtual snapshots. ,Agent,No,"recognition performance; training time, testing time, feedback",191 psychology students,Medium,High,Jenna,2013-05-20,
+196,"Beall, Andrew C.
+Bailenson, Jeremy N.
+Loomis, Jack
+Blascovich, Jim
+Rex, Christopher S.",2003,HCI International,Non-Zero-Sum Gaze in Immersive Virtual Environments,Yes,Yes,Yes,"Eye Gaze (p), Situational Plausibility (sc), Graphical Fidelity (sm), Display Technology (sm)","Study examines the effects on non-zero sum gaze in VR. Experimenter tried to persuade 2 subjects with 3 different gaze conditions: natural (unaltered rendering), augmented (each subject receives gaze 100% of the time), and reduced (neither subjects receives any gaze). Results showed that subjects were unaware of the augmented and reduced gaze manipulations, even though subjects' behavior changed in reaction to the gaze conditions. ",Avatar,No,"Subjects' head movements, self-reports of experimenter gaze, attitude change on the topic, and recall of information",54 participants (2 with 1 experimenter in each group),Medium,High,Jenna,2013-05-20,
+197,"Slater, M.
+Pertaub, D-P.
+Barker, C.",2000,N/A,An Experiment on Fear of Public Speaking in Virtual Reality,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Eye gaze (i), Body Gestures (s,i), Talk/speak (p)","3 conditions: positive, static, negative audiences (manerisms and comments). Subjects gave 2 talks in 2 different conditions. Results showed higher anxiety and higher somatic response (physiological checklist) in negative condition. Negative condition appeared more realistic to subjects. People respond to virtual audiences much like the way they do in real life. Virtual reality is useful for social performance training when agent responses are timed appropriately. ",Agent,N/A,"Self-reported anxiety, physiological response checklist, subject assessment of performance",40 University College London students and staff members,Medium,High,Jenna,2013-05-25,
+198,"Slater, M.
+Gruger, C.
+Edinger, G. 
+Leeb, R.
+Pfurtscheller, G.
+Antley, A.
+Garau, M.
+Brogni, A.
+Friedman, D.",2006,Presence,Analysis of Physiological Responses to a Social Situation in an Immersive Virtual Environment,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Eye gaze (i), Body Gestures (s,i), Talk/speak (p)","Subjects interacted in a bar scene with agents and went through 3 phases: baseline, training, experimental. There were significant changes from the training to the experimental phase, and speaking avatars led to higher heart rate. More socially anxious subjects had higher heart rates and lower heart rate variability than less socially anxious subjects.",Agent,N/A,"Skin conductance, heart rate, heart rate variability",20 University College London students,Medium,High,Jenna,2013-05-25,
+199,"Slater, M.
+Pertaub, D-P.
+Steed, A.",1999,IEEE Computer Graphics and Applications,Public Speaking in Virtual Reality: Facing an Audience of Avatars,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Eye gaze (i), Body Gestures (s,i), Talk/speak (p)","Subjects presented a 5 minute talk to virtual people in a virtual seminar room. They repeated this 3 times - saw a positive or negative audience, audience opposite from first talk, audience starting hostile and becoming positive. For a negative audience, higher self-rating with higher perceived audience interest. For positive audience, no difference. The other independent factor was immersion - 3D headset or monitor. No significant difference in co-presence. Lower self-rating for negative audience and higher self-rating for positive audience. ",Agent,N/A,"Self-rating performance, reported physical symptoms of anxiety, standard fear of public speaking questionnaire ","10 University College London students and faculty (9m, 1f); age 20s and 30s",Medium,High,Jenna,2013-05-25,
+200,"Slater, M.
+Pertaub, D-P.
+Barker, C.",2002,Presence: Teleoperators and Virtual Environments,An Experiment on Public Speaking Anxiety in Response to Three Different Types of Virtual Audience,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Eye gaze (i), Body Gestures (s,i), Talk/speak (p)","There are 3 different audience conditions: positive, static, negative audiences (facial expressions and bod gestures). Subjects gave 2 talks in 2 different conditions. Results showed higher anxiety and higher physiological response (somatic) in the negative audience condition, which was more realistic to subjects. People respond to virtual audiences similar to the way they do in real life. VR is helpful with social training when responses from agents are timed appropriately. ",Agent,N/A,"Self-reported anxiety, physiological response checklist, subject assessment of performance",40 University College London staff and students,Medium,High,Jenna,2013-05-26,
+201,"Ewald Moser
+Birgit Derntl
+Simon Robinson 
+Bernhard Fink
+Ruben C. Gur
+Karl Grammer ",2007,Journal of Neuroscience Methods,Amygdala Activation at 3T in Response to Human and Avatar Facial Expressions of Emotions,No,No,No,"Anthropomorphic Face and Facial Expressions (a), Emotiveness (i)",Study on the effect of computer-generated (avatar) faces on amygdala activation in participants. Participants are asked to perform a series of facial recognition tasks after viewing avatar and human faces and their displayed emotions. Participants' amygdala activation data in response to viewing both types of faces is analyzed. Researchers propose the use of avatars in future neuroimaging studies of facial processing as avatar faces are easier to manipulate than human ones. Results suggest a brain mechanism that humans use to distinguish between humans and avatars. ,Avatar,No,Avatar faces elicit similar levels of amygdala activation as human faces.,"12 students from the University of Vienna (5f, 7m), all right-handed",Medium,Medium,Joy,2013-06-09,
+202,"Shoichi Hasegawa
+Ishikawa Toshiaki
+Naoki Hashimoto
+Marc Salvati
+Hironori Mitake
+Yasuharu Koike
+Makoto Sato",2006,ACM Computers in Entertainment,"Human-Scale Haptic Interaction with a Reactive
+Virtual Human in a Real-Time Physics Simulator",Yes,Yes,No,"Body Pose and Gestures (s,i), Responsiveness/Latency (o), Haptic/Tactile Interactions (o), Incremental Interpretation/Early Feedback (p)","This research presents an framework for virtual human interaction using haptics in a virtual world where a user controls the avatar inflicting ""damage"" to a virtual human. The way that the virtual human reacts to the avatar is measured as well as realistic validity of the framework based on a second waive of subjects' reactions. The framework appears to be successful at this beginning stage. 
+",Avatar,No,Users were able to correctly estimate what action an avatar had on a virtual human based on the algorithm designed by the researchers to imitate human behavior. The reactions of the virtual humans seemed real enough that participants had no difficulty identifying which area of the body was targeted by the avatar's attack. ,14 students,High,Medium,Joy,2013-06-09,
+203,"Xueni Pan
+Marco Gillies
+Mel Slater",2008,Proceedings of the 2008 Presence,"The Impact of Avatar Blushing on the Duration of Interaction
+between a Real and Virtual Person",No,Yes,No,"Anthropomorphic Face and Facial Expressions (e), Emotiveness (i)",Paper summarizes experiment on avatar blushing and this condition's effect on the length of time humans will voluntarily interact with the avatar. Whether or not participants would perceive the avatars' blushing and how they would react were the primary study goals. Participant toleration of or increased engagement with the avatar upon avatar blushing is measured.,Agent,No,"Participants noticed more blushing of the avatar's cheeks alone more than they noticed blushing of the avatar's entire face, and were more likely to withdraw early from interaction when cheeks were blushing. Avatars whose whole faces blushed did not trigger participants to leave early, contrary to findings of cheek-blushing alone. Participants felt more ""co-presence"" in condition where the avatars' whole faces were blushing despite that all participants indicated they had no conscious awareness of the fact that the avatars' whole faces were blushing. Implications for designing avatars that humans will feel comfortable interacting with and conditions that would discourage continuted interaction with avatars.",33 male students. Average age: 20 years,High,Medium,Joy,2013-06-09,
+204,"Yvonne Jung
+Sebastian Wagner",2010,IADIS Multi Conference on Computer Science,Emotional Factors in Face Rendering,No,No,No,"Anthropomorphic Face and Facial Expressions (a), Emotiveness (i)","This study closely examines physical characteristics of an avatar's face, specifically skin color and changes to skin appearance, on the ability of an avatar to express emotions effectively to humans.
+",Avatar,No,"Subjects perceived emotions of an avatar much better in conditions where dynamic psychological and physiological effects of skin (ie sweating, weeping, blushing, face wrinkles) were manipulated consistent with the corresponding emotion.","
+57 students (32 f, 25 m)",High,High,Joy,2013-06-09,
+205,"
+Ahmad Hoirul Basori
+Abdullah Bade
+Mohd Shahrizal Sunar
+Daut Daman
+Nadzari Saari",2009,International Journal of Digital Content Technology and its Applications,A Vibration Tactile Aesthetic to Enhance the Realism of Interactive Game Avatar,Yes,Yes,No,"Haptic/Tactile Interaction (o), Anthropomorphic Face and Facial Expressions (a), Emotiveness (i), Synchronization of Stimuli (a)",This study uses haptics paired with avatar facial expression to enhance realism via interactivity. Duration and acceleration of vibrations during avatar interaction are considered. Emotions expressed through facial interaction are angry and happy. Results show that the use haptics did increase immersiveness in the game.,Avatar,No,"Use of haptics created a positive sense of touch in user interactions with the avatar, increasing realness of the avatar by 35 to 55% from avatars used in previous comparable studies. The combination overall of avatar facial expression and haptics proved to enhance the immersion of participants in VR and the realism of the avatar overall.",N/A,High,Medium,Joy,2013-06-10,
+206,"Alejandra García-Rojas
+Dr. Frederic Vexo
+Dr. Daniel Thalmann
+Amaryllis Raouzaiou
+Dr. Kostas Karpouzis
+Professor Stefanos Kollias
+Laurent Moccozet
+Nadia Magnenat-Thalmann",2006,Computer Animation and Virtual Worlds,Emotional Face Expression Profiles Supported by Virtual Human Ontology,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Emotiveness (i)",This paper is an exploration of the technological ways facial animations of avatars can be successfully modeled for a higher degree of realism through facially expressed emotions. This research defines specific methods for the expression of several emotions that can be synthetically animated and which are demonstrated to be successful when prerecorded and used in virtual simulations. It includes methods of categorization for different facial expressions and animations.,Avatar,No,No participants,N/A,Medium,High,Joy,2013-06-10,
+207,"Peter Weyers
+Andreas Mühlberger
+Carolin Hefele
+Paul Pauli",2006,Psychophysiology,Electromyographic Responses to Static and Dynamic Avatar Emotional Facial Expressions,Yes,Yes,Yes,"Anthropomorphic Face and Facial Expressions (a), Emotiveness (i)",Experiment where participants' reactions of avatar facial expressions (both dynamic and static) are measured using EMG recordings. Participants were told their sweat gland reactions were being measured to mask the intention of measuring facial muscular activity in response to viewing avatar faces. ,Avatar,No,"Participants rated avatars with dynamic facial expressions as easier to recognize, more realistic and of higher intensity. Angry facial expressions were perceived by participants as more intense than happy facial expressions in avatars. When viewing avatars with happy facial expressions, participants increased tension in their facial muscle M. zygomaticus major and lessened tension in their M. corrugator. These effects were stronger when viewing dynamic facial expressions compared to static. Participants viewing angry expressions did not show muscle activity in the M. corrugator.",51 female students,Medium,High,Joy,2013-06-10,
+208,"Kristine L. Nowak
+Frank Biocca",2003,Presence,"The Effect of the Agency and
+Anthropomorphism on Users’
+Sense of Telepresence,
+Copresence, and Social Presence
+in Virtual Environments",Yes,Yes,Yes,Anthropomorphic Face and Face and Facial Expressions (a),"Experiment on anthropomorphic influence and experience of agency. Participants' feelings of copresence, social presence and presence were measured after images of high, low or no anthropomorphism were presented. Participants were also told that images were either 1) avatar controlled by a human or 2) an agent controlled by a computer. ",Avatar/Agent,No,"In both agent and avatar conditions, participants responded to the images with social presence. Low-anthropomorphic images had an advantage over high or no anthropomorphic images when rated by participants for copersence and social presence. Images with high anthropomorphism were mistrusted by participants (possibly) because they were unable to meet participants' expectations of their behavior, decreasing a sense of presence. ","134 undergraduates (94m, 40f)",Medium,High,Joy,2013-06-10,
+209,"Christian WallRaven
+Martin Beidt
+Douglas W. Cunningham
+Heinrich H. Bulthoff",2008,ACM Transactions on Applied Perception (TAP),Evaluating the Perceptual Realism of Animated Facial Expressions,No,Yes,No,Anthropomorphic Face and Facial Expressions (a),"Experiment evaluating several animation techniques regarding facial movement and animation in order to identify parameters of realism through improved recognition of avatars' expressions. Also, parameters of expression characteristics (study refers to them as ""spatiotemporal characteristics"") are investigated. Proposal is that changing certain facial features will improve perception of avatars as realisic. Results provide information about creating animated facial expressions on avatars that are easy for humans to recognize.",Avatar,No,"Participants judge the facial expressions of avatars with eyes and teeth as more intense and sincere compared with those who did not have them; participants could more easily recognize avatars' expressions when head motion, natural timing of internal facial motion, and frequency of facial motion were manipulated by researchers. ",12 participants for first study,High,Medium,Joy,2013-06-10,
+210,"Holger Hoffmanna
+Harald C. Trauea
+Franziska Bachmayra
+Henrik Kesslera ",2009,Cognition & Emotion,Perceived Realism of Dynamic Facial Expression of Emotion: Optimal Durations for the Presentation of Emotional Onsets and Offsets,Yes,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Synchronization of Stimuli (a), Emotiveness (r), Responsiveness/Latency (o)",This study investigates the methodology of presenting facial expressions in avatars through manipulation of facial expression change in units of time. Participants viewed avatar faces that either changed from an emotional expression to a neutral expression (offsets) or that changed from neutral to emotional (onsets). Different emotions were applied to avatar expressions in each conditio. Participants rated realism of avatar faces after each trial and adjusted the speed of expression onset or offset to enhance realism to the highest level. ,Avatar,No,"Participants percieved sadness most strongly when duration of experience was the longest, followed by the emotions happiness and disgust. Paricipants perceived fear and surprise as most realistic when shown in short durations. Female participants in general perceived sequences of facial expressions as less realistic than male participants when displayed for shorter durations, especially for fear, sadness and disgust. Surprise was perceived as most realistic when shown for a shorter duration than all other emotions. ","124 volunteers (84 onset condition, 40 offset condition)",High,Medium,Joy,2013-06-10,
+211,"Jun'ichiro Seyama
+Ruth S. Nagayama",2007,Presence,"The Uncanny Valley: Effect of
+Realism on the Impression of
+Artificial Human Faces",Yes,No,No,"Anthropomorphic Face and Facial Expressions (a), Graphical Fidelity (sm)","Study built to challenge the concept of the uncanny valley by presenting participants with faces either highly or slightly anthropomorphically accurate. This effect was tested by measuring participants' perceptions of facial images considered highly or slightly realistic. Uncanny valley theory is consistent, but only when faces morphed into highly realistic images also displayed abnormal features, such as bizarre eyes. Study proposes that abnormality may rely on generally accepted standards for human faces in terms of averages and what is universally considered attractive. After analyzing study results, researchers believe that the uncanny valley theory is a result of confounding factors based on facial features.",Avatar/Agent,No,Abnormality of features affected participants' ratings of discomfort significantly more than photographic realism. Participants did not experience discomfort increasingly as facial images morphed from clearly artificial to photographically realistic. Participants perceived facial images as more pleasant as eye size decreased. Uncanny Valley effects were most present when eyes and head were the most mistmatched in terms of humanistic realism.,"86 participants (35f, 52m), average age 25.7",Medium,High,Joy,2013-06-10,
+212,"Bailenson, J.N.
+Jarrold, W.
+Mundy, P.
+Gwaltney, M.
+Hatt, N.
+McIntyre, N.
+Kim, K.
+Solomon, M.
+Novotny, S.
+Swain, L.",2013,Autism Research,Social Attention in a Virtual Public Speaking Task in Higher Functioning Children with Autism,Yes,Yes,Yes (cue),"eye gaze (r, i), agency (i) ",Study measured gaze behavior. Autistic subjects spoke to a virtual classroom. 2 conditions: introduced themselves and answered questions (non-cued) or did the same but virtual humans faded to transparency when they needed more eye contact (cued). Repeated with nonsocial targets. Autistic subjects had more atypical gaze behavior than controls. Higher effects for virtual humans than nonsocial targets.,Agent,N/A,"gaze behavior when giving a speech - cued and not cued, measures of Autism ",91 elementary school and secondary school students,Medium,High,Jenna,2013-06-10,
+213,"Amerych, Laura 
+Bailenson, Jeremy
+Karutz, Cody",2012,International Society for Presence Research Annual Conference,Effects of Facial and Voice Similarity on Presence in a Public Speaking Virtual Environment,Yes,Yes,No,anthropomorphic face and facial expressions (a); auditory stimuli (sm),Subjects gave a speech to a virtual classroom. They either used their own voices or acted out gestures to another participant's speech. They were also assigned to an avatar with a similar (photograph) or dissimilar (another participant) face to theirs. A mirror in the back of the classroom let them always see themselves. There was higher self-presence and social presence for those that used their own voice. No significant facial effects.,Agent,Yes,"presence measures/questionnaires, subjects rated how similar avatars were to themselves","44 college students (19m, 25f)",Medium,High,Jenna,2013-06-10,
+214,"Kang, S-H.
+Gratch, J.",2010,Computer Animation and Virtual Worlds,Virtual Humans Elicit Socially Anxious Interactants' Verbal Self-Disclosure,No,Yes,No,"agency (p); emotiveness (r); cooperative behavior (r), talk/speak (r)","This study compared socially anxious subjects and controls. Subjects spoke with and answered questions with a virtual human, modified video, and unmodified video. The virtual human condition led to more self-disclosure and less anxiety for socially anxious subjects. Socially anxious subjects seemed to give more information and have rapport with virtual humans.  ",Agent,N/A,"behavioral/self-disclosure measures, social anxiety and self-consciousness questionnaires ","108 participants (54m, 54f)",Medium,High,Jenna,2013-06-10,
+215,"Sin-Hwa Kang
+James H. Watt
+Sasi Kanth Ala",2008,Hawaii International Conference on System Sciences,"Communicators’ Perceptions of Social Presence as a Function of Avatar Realism
+in Small Display Mobile Communication Devices",Yes,No,No,"Anthropomorphic Face and Facial Expressions (a), Emotiveness (i), Talk/Speak (r), Display Technology (sm)",Study examines social presence through the use of small display mobile devices. Participants are required to disclose information about themselves and evaluate the avatar. Participants rate their perception of the communicative medium's social richness and satisfaction with avatar interactions.,Avatar,No,,126 Northwestern University students,High,High,Joy,2013-06-10,
+216,"Kang, S-H.
+Gratch, J.
+Wang, N.
+Watt, J.H.",2008,Proceedings of AAMAS,Does the Contingency of Agents' Nonverbal Feedback Affect Users' Social Anxiety?,Yes,Yes,No,"cooperative behavior (r), talk/speak (p, r), emotiveness (r), body pose and gestures (s, i)","Study looked at the effects of agent responsiveness. Subjects interacted with a real human, avatar controlled by a human, a responsive agent, or an agent whose behavior did not depend on the subject. Subjects either watched a video and retold the information or listened to a speaker and retold what they said. Socially anxious subjects had lower rapport and performed worse. They were least trustworthy of real humans compared to virtual ones. ",Agent/ Avatar,N/A,"self-reports of trustworthiness, rapport, performance, shyness, likableness","131 participants from Los Angeles (51m, 80f)",Medium,High,Jenna,2013-06-10,
+217,"Hoyt, C.L.
+Blascovich, J.
+Swinth, K.R.",2003,Presence,Social Inhibition in Immersive Virtual Environments,Yes,Yes,Yes (told the audience was agents or avatars),"emotiveness (r), agency (i), body pose and gestures (sc), situational plausibility (sc)",Subjects mastered 1 of 2 tasks (categorization or pattern recognition) in VR. They did the mastered or non-mastered task alone or in front of a virtual audience. They were told audience members were agents or human-controlled avatars. Those performing in front of an audience of avatars had higher social anxiety and inhibition than those who did the task alone or in front of agents. ,Agent,N/A,"performance (% correct), self-reports of anxiety, copresence, and task novelty","39 UCSB undergraduates (15m, 24f)",Medium,High,Jenna,2013-06-10,
+218,"Anna Spagnolli
+Luciano Gamberin",2008,Proceedings of the 11th Annual International Workshop on Presence,"The Effect of Viewer Perceptions of Avatar Anthropomorphism and Realism on
+Judgments of Credibility and Homophily, and Avatar Choice",No,No,No,Anthropomorphic Face and Facial Expressions (a),"Participants interacted with avatars whose anthropomorphism and realism were controlled, but whose gender was randomly either masculine or feminine, while processing information online. Perceived avatar masculinity, anthropomorphism, realism, credibility and homophily were measured. Study results indicate that avatars' anthropomorphism and realism influence participants' ratings of homophily and credibility of the avatars as well as the source of information. ",Avatar,Increased homophily for matched-gender avatars,Participants who interacted with avatars of the same gender felt positively closer to their avatars.,"310 undergraduate students at public northeastern university,142m,168f, aged 18-24 ",Medium,Medium,Joy,2013-06-10,
+219,"Rachel McDonnell       
+Sophie Jörg       
+Joanna McHugh        
+Fiona N. Newell      
+Carol O'Sullivan       
+",2009,ACM Transactions on Applied Perception (TAP),Investigating the Role of Body Shape on the Perception of Emotion,No,No,No,"Physical Shape (s), Emotiveness (i), Body Pose and Gestures (s,i)","This study researches the effect of form and shape on perceived emotions of a virtual ""other"". Different forms exhibited six different basic emotions (sad, happy, surprised, afraid, angry, disgusted). Presence of absence of a form or ""body"" was also used to analyze participants' perceptions of emotion. ",Avatar,No,"The presence of avatar body affected participants' perceptions of emotions, mostly regardless of the body shape. Body hape had a stronger effect on participants' perception of emotion than body motion did.","66 participants (44m, 22f) aged 19-45",High,High,Joy,2013-06-10,
+220,"Kristine L. Nowak
+Christian Rauh",2005,Journal of Computer-Mediated Communication,"The Influence of the Avatar on Online Perceptions of Anthropomorphism, Androgyny, Credibility, Homophily, and Attraction",No,No,No,Anthropomorphic Face and Facial Expressions (a),"Participants evaluate static, non-dynamic images of avatars and rated their anthropomorphism, credibility, androgeny, homophily, attraction, and likelihood of choosing avatars for an interaction. The absence of adrogeny was most effective in perceptions of avatar images. Other results were also found (see user response). ","Avatar (image only, non-dynamic)",Participants demonstrate a preference for human avatars and for avatars whose gender was matched to their own.,"Participants perceived avatars as more attractive and credible as anthropomorphism increased, and were more likely to choose them as representations of themselves. Participants rated masculine avatars as less attractive than female avatars. Also, particants perceived child-like avatars as more attractive. Avatars shown first were rated less positively in terms of androgeny, homophily, and anthropomorphism than those shown later. Participants show engagement with uncertainty reduction theory, which posits that humans primarily seek to reduce uncertaintly when ineractioning with someone else, by consistently assigning avatar images to the same categories.","221 communication students (136m, 115f) from Northeastern university",Medium,High,Joy,2013-06-10,
+221,"James, L.K.
+Lin, C-Y.
+Steed, A.
+Slater, M.
+Swapp, D.",2003,CyberPsychology & Behavior,Social Anxiety in Virtual Environments: Results of a Pilot Study,Yes,Yes,No,"agency (i), talk/speak (r), auditory stimuli (o), physical shape (sm)",Pilot study examined social anxiety in VR. Subjects interacted with neutral virtual humans on a virtual train and started a conversation with virtual humans in a virtual wine bar. Randomly assigned to which scenario to start with. Subjects had more self-reported and physical anxiety in the wine bar condition probably because it was more socially demanding. ,Agent,No,"self-reported anxiety; self-reported sweat, stomach discomfort, heart palpitations, tremors, nerves, chest tightness, nausea, lack of balance, tension  ","10 participants (5m, 5f)",Medium,High,Jenna,2013-06-10,
+222,Niek Brunninkhuis,2012,"none (Doctoral dissertation, Tilburg University)",The Effect of Eye Gaze Direction on Vocal Mimicry,Yes,Yes,No,"Eye gaze (p), Talk/Speak (p)","Participants were exposed to EIA (embodied interface agents) who spoke a single word in either a falling, rising or late-rising pitch. Participants' reactions to the voice pitch and eye gaze of the EIA's were measured in voice pitch change as they were instructed to repeat the word. Sixteen videoclips of an EIA were created where the EIA spoke a single word; in half of these the EIA gazed directly at the participant (or viewer of the video) and in the other half, the EIA averted his/her gaze. Thirty-two additional clips were mixed with these videos where the EIA blinked his eyes as ""control"" conditions. Participants were instructed to press the ""space"" bar if the EIA blinked his/her eyes in order to focus their attention on the eyes of the EIA. ",Agent,Participants who felt agents were gazing at them adjusted their voices to mimic the same tone as the agents'.,Participants whose agent looked at them directly adjusted their voice intonation to that agent moreso than did participants whose agent did not look directly at them. ,"47 (24m, 23f) Tilberg University students, aged 18-34",High,High,Joy,2013-06-11,
+223,"Vinoba Vinayagamoorthy
+Anthony Steed
+Mel Slater",2008,IEEE Transactions on Visualization and Computer Graphics,The Impact of a Character Posture Model on the Communication of Affect in an Immersive Virtual Environment,Yes,Yes,Yes,"Body Pose and Gestures (s), Anthropomorphic Face and Facial Expressions (a), Auditori Stimuli (o), emotiveness (i), Anthropomorphic Appearance (sc), Talk/Speak (p)","Experiment involves measuring participants' perceptions of virtual characters' emotional states. Participants in VR observed two characters talking to each other; the content of the conversation was muffled to be indistinguishable so that only nonverbal behavior could cue towards the characters' affective state. The portrayed emotion was either sad or angry by a single character (the second was always neutral). The participant was instructed to move towards the characters after locating them and engage in a conversation about maze directions. Both characters acted neutral towards the participant once the participant had approached them. Participant response to the virtual character demonstrating emotion was measured as a function of subjective, physiological and behavioral levels.",Agent,No,"Participants felt they were intruding to interrupt the two virtual characters, they felt the need to act politely. Avatar posture was not found to strongly affect emotional perceptions of participants, as researchers had hoped. Neutral postures overall had an advantage over angry postures in producing feelings of copresence and higher physiological arousal. Neutral postures were also helpful for increasing feelings of copresence, but not physiological arousal, when compared to sad postures. Almost all participants in the angry condition accurately that their avatar was ""angry"" using nonverbal cues.","49 students, only male, all 20's",High,High,Joy,2013-06-11,
+224,"Cathy Ennis
+Carol O'Sullivan",2012,Computer Animation and Virtual Worlds,Perceptually Plausible Formations for Virtual Conversers,Yes,Yes,No,"Situational Plausibility (a,sc), Body Pose and Gestures (sc,p), Proxemics (sc), Emotiveness (i), Synchronization of Stimuli (sc), Auditory Stimuli (sm)","Researchers' stated objective is to ""examine human sensitivity to variations in interpersonal distances for two virtual conversers"". Specifically interested in the evolving field of background characters and their effect on scene plausibility or presence enhancement in VR, they applied parameters evident in real-life human conversations to virtual characters using distance and orientation manipulations and measured participant sensitivity after exposure to virtual characters. ","Avatar (recorded motion, not in real time)",No,"Participants showed a reaction to distance and orientation changes between talking and listening characters in VR. They were not sensitive to abnormal nonverbal behavior in any distance manipulation condition. When characters were close or in the middle of the distance spectrum, participants rated the characters' communicative abilities higher.","19 volunteers (13m, 6f), not including actors used to model avatar behaviors ",Medium,High,Joy,2013-06-11,
+225,"Paul Skalski
+Ron Tamborini",2007,Media Psychology,The Role of Social Presence in Interactive Agent-Based Persuasion,Yes,Yes,Yes,"Anthropomorphic Face and Facial Expressions (a), Responsivenes/Latency (r), Talk/Speak (r)","Experiment focuses on persuasion, social presence and information processing effects of social agents. Participant attitude and intention towards a specific health issue are measured. Source attractiveness is manipulated, as well as participant understanding of social agent's control (human, not computer). ",Agent/Avatar,No,"Despite attractiveness manipulations, participants across conditions who perceived greater interactivity reported a higher sense of social presence. Higher social presence enhanced their attention to agents' positive attributes in both attractive/unattractive conditions. Increasing participants' message processing positively affected their mood, inreasing the chance of their persuasion. ","125 Midwestern university students (42m, 83f), average age 21.56",High,High,Joy,2013-06-11,
+226,Kristine L. Nowak,2004,Journal of Computer-Mediated Communication,The Influence of Anthropomorphism and Agency on Social Judgment in Virtual Environments,Yes,Yes,Priming,"Anthropomorphic Face and Facial Expressions (a), Talk/Speak (r), Talk/Speak (p), Auditory Stimuli (sm)","This article tests participants' uncertainty and social judgement through the influence of anthropomorphism and agency. Information was presented to participants in a virtual environment only and social judgements were then measured. Participants experienced their virtual partner through a virtual world viewed through a computer screen either either an image, with a highly anthropomorphic image, or with a low anthropomorphic image. Participants were either told their partner was another student or that it was computer-controlled. Social attraction, credibility and uncertainty were measured. ",Agent/Avatar,No,"Participants' social judgement was affected by the presentation of a virtual image. The most anthropomorphic image was perceived less credible and likable than no image at all, and the less anthropomorphic image was rated more credible and likeable than both.","134 undergraduates (94m, 40f) at a large Midwestern university",High,High,Joy,2013-06-11,
+227,"Kelly, O.
+Matheson, K.
+Martinez, A.
+Merali, Z.
+Anisman, H.",2007,CyberPsychology and Behavior,Psychosocial Stress Evoked by a Virtual Audience: Relation to Neuroendocrine Activity,Yes,Yes,Yes (told to imagine audience behind one-way mirror),Talk/Speak (p); Situational Plausibility (sc),"Study compares neuroendocrine activity in VR and in real life. Subjects gave a speech or a speech with a math challenge in front of one-way mirror (imagined audience), a virtual audience, or an audience of real people. The real audienced yielded the most anxiety and highest cortisol levels. Below that, the virtual audience and imagined audience had similar anxiety results, which were both higher than the control group that did not give a speech. Concludes that real audiences create more anxiety, but VR audiences can create some public speaking anxiety. ",Agent,No,Cortisol levels from saliva samples; questionnaire answers,"274 university students (158m, 144f)",Medium,High,Jenna,2013-06-11,
+228,"Cornwell, B.R.
+Heller, R.
+Biggs, A.
+Pine, D.S.
+Grillon, C. ",2011,J Clin Psychiatry,Becoming the Center of Attention in Social Anxiety Disorder: Startle Reactivity to a Virtual Audience During Speech Anticipation,Yes,Yes,No,"Eye Gaze (p), Talk/Speak (p), Anthropomorphic Appearance (sc), Responsiveness/Latency (p), Body Pose and Gestures (p), Agency (i)","Subjects went center stage in a virtual environment and gave a speech. Audience social cues, like blinking, were gradually unveiled in anticipation of the speech, during delivery, and recovery after the speech. Subjects with social anxiety disorder reported higher distress and anxiety than healthy subjects. Both groups reported the most anxiety during anticipation of the speech, especially when the virtual audience shifted their attention/eye gaze onto the speaker.",Agent,No,"self-reports of anxiety, distress in and out of VR",32 participants,Medium,High,Jenna,2013-06-11,
+229,"Cornwell, B.R.
+Johnson, L.
+Berardi, L.
+Grillon, C.",2006,Biological Psychiatry,Anticipation of Public Speaking in Virtual Reality Reveals a Relationship Between Trait Social Anxiety and Startle Reactivity,Yes,Yes,No,"Talk/Speak (p), Responsivness/Latency (p), Spontaneous Actions (p), Synchronization of Stimuli (sc)","Study looked at startle reflexes in scenarios with social threat. Subjects performed 2 tasks in VR: a social task (5 minute speech in front of an audience) and a nonsocial task (counting backward in an empty room). Startle probes were included every 17-23 seconds.There were significant increases in anxiety in anticipation of both VR tasks, especially the 5 minute speech. Startle reflexes were linearly related to anxiety predisposition in evaluative, social situations. Skin conductance and heart rate were higher for anticipation in the speech than in the counting task. Concludes that high trait social anxiety is linked to high startle reflexes in situations of social evaluation.  ",Agent,No,"self-reported anxiety (questionnaires), electrocardiographic (ECG): skin conductance, heart rate","45 healthy participants (21m, 24f)",Medium,High,Jenna,2013-06-11,
+230,"Bailenson, Jeremy
+Beall, Andrew C.
+Blascovich, Jim",2002,Visualization and Computer Animation,Gaze and Task Performance in Shared Virtual Environments,Yes,Yes,No,"Responsiveness/Latency (p), Anthropomorphic Appearance (sc), Body Pose and Gestures (p, r), Talk/Speak (p, r), Facial Expressions (sc), Synchronization of Stimuli (a), Auditory Stimuli (o)","Study examines co-presence and avatar behavior (head movements). Subjects played a game of ""20 Questions"" as either an interrogator or answerer. 3 conditions of other avatars: low behavior (no visual representation, voice only), medium behavior (could see avatar movements and hear avatar voices), and high behavior (same as medium with rendered head movements). Results show that subjects had higher co-presence, liked each other more, looked at each other's heads more, and spoke less during the game in the high behavior condition compared to other conditions. Concludes that people benefit from extra forms of communicaiton. ",Avatar,No,"questionnaires; demographic information; behavior and performance: # questions asked, time it took to ask question, time it took to finish game in each condition, time spent speaking during game (%)","27 undergraduate psychology students (16m, 11f)",High,High,Jenna,2013-06-11,
+231,"Colburn, R. Alex
+Cohen, Michael F.
+Drucker, Steven M.",2000,N/A (Microsoft Research),"The Role of Eye Gaze in Avatar Mediated Conversational Interfaces
+",Yes,Yes,No,"Eye Gaze (i, p, r), Responsiveness/Latency (p), Agency (i), Anthropomorphic Face and Facial Expressions (a), Situational Plausibility (a), Talk/Speak (p, r), Graphical Fidelity (sm)","This research focuses on models of real-time eye gaze in avatars. Subjects spoke to an avatar via a headset and computer monitor. It was a 9 minute, casual conversation about various topics. It was broken down into 3 sections of 3 minutes. Subjects saw a blank scree, then an avatar that just looked straight ahead, and an avatar with the eye gaze model. Experimenters noted when subjects looked at avatar and when they did not. Results showed subjects looking at center of screen more with an avatar than without. No significant looking patterns between avatar conditions when subjects were speaking. Significant looked at eye model avatar more than other avatar when they were listening.  ",Agent (eye model is computer-controlled - just referred to as avatar in this paper),No,"% time subject looked at avatar while speaking, % time subject looked at avatar while listening",20 convenient participatns (computer scientists or administrative aids),High,Medium,Jenna,2013-06-11,
+232,"Katherine Isbister
+Clifford Nass",2000,International Journal of Human-Computer Studies,"Consistency of Personality in Interactive Characters: Verbal Cues, Non-Verbal Cues, and User Characteristics",No,No,No,"Emotiveness (i), Body Pose and Gestures (i,p), Cooperative Behavior (r), Responsiveness/Latency (r), ","This study examines the effect of interactive characters' verbal and nonverbal cues on participants' interpretations of their personality. The hypothesis centers around a similar  interpretation of verbal (text) and nonverbal (posture) cues in identification of personality when compared to participants' evaluation of real people. Intro and extroverted subjects were placed in one of three conditions: character with similar personality, character with dissimilar personality, and character with inconsistant personality. Characters were displayed on a computer screen and resembled a real-life faceless wooden figure with a human-like form. Characters' influence based on personality conditions was measured as a function of their influene and persuasion on participants' choices in a hypothtical survival task.",Agent,No,"Participants preferred consistent verbal and nonverbal cues across personality conditions and could accurately identify the personality of their interactive character. Participants changed their choices for tools in a hypothetical survival task more frequently when their character was consistently introverted or extroverted. Participants' preference was for interactive characters with a personality opposite of, rather than matched to, their own.","40 Stanford students (20 extroverted, 20 introverted)",Medium,High,Joy,2013-06-11,
+233,"Sin-Hwa Kang
+James H. Watt",2013,Computers in Human Behavior,The Impact of Avatar Realism and Anonmity on Effective Communication via Mobile Devices,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Graphical Fidelity (sm), Auditory Stimuli (sm), Display Technology (sm), Situational Plausibility (sc)","This is a study on social communication using small-screen devices. Researchers tested the effect of anonymous avatar use in audio/visual communication to determine if avatar implementation would enhance communication effectiveness. Levels of avatar realism (static/dynami, high or low visual fidelity) and anonymity were manipulated. Participants were told a hypothetical situation indicating that their avatar could be a potential rommate and were encouraged to engage in conversation with them. Participants' perception of copresence was recorded. ",Avatar,No,"Participants perceived mobile devices whose avatars had higher kinetic conformity as socially richer platforms. Participants' interactive satisfaction with their technological communication positively correlated with anthropomorphism of the avatar used. Participants rated the social copresence of mobile devices whose avatars were highly anonymous lower than those with less anonymous avatars. This effect was decreased when avatars were visually and behaviorally more realistic.
+","198 northeastern college students (99f, 99m)",Medium,High,Joy,2013-06-11,
+234,"Cassell, Justine
+Thorisson, Kristinn R.",2010,Applied Artificial Intelligence,The Power of a Nod and a Glance: Envelope vs. Emotional Feedback in Animated Conversational Agents,Yes,Yes,Yes,"Incremental Interpretation/Early Feedback (p), Emotiveness (p, r), Agency (i), Body Pose and Gestures (p), Anthropomorphic Appearance (sc)","Subjects interacted with 3 different kind of agents, which were all capable of full multimodal interaction. They all had different kinds of feedback: content-related only (questions and commands), content and envelope (nonverbal behaviors), and content and emotional (smiles and looks of puzzlement). Results show that agents' envelope feedback is more important in interaction and processing dialog than emotional feedback. Subjects also rated the agents as being lifelike and fluid in interaction. ",Agent,No,"evaluation questionnaires, speech patterns and behaviors (video)",12 convenient volunteers (age 22-37),High,Medium,Jenna,2013-06-11,
+235,"Rinat B. Rosenberg-Kima
+Amy L. Baylor
+E. Ashby Plant
+Celeste E. Doerr",2008,Computers in Human Behavior,Interface Agents as Social Models for Female Students: The Effects of Agent Visual Presence and Appearance on Female Students' Attitudes and Beliefs,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Talk/Speak (p), Emotiveness (i)",Researchers designed agents to appear anthropomorphic and potentially act as social models for young women in college. The goal of the study was to successfully use these agents to reduce young women's negativity and feelings of low self-efficacy in beliefs about engineering. One experiment compared the impact of the agent's voice alone with the impact of the agent's visual model alone to determine the most effective medium in influencing beliefs. A second experiment compared the influence of the agent's different physical characteristics. All participants in the second study interacted with a physical model that did not have a voice. ,Agent,No,"The agent presented as a visual medium had a greater impact than the agent with voice alone on influencing young women's beliefs about self-efficacy in engineering. The more similar the agent appeared based on physical characteristics of the computer model, the more influential it was in positive alterations of women's steroetypes about engineering and beliefs about self-efficacy. ","200 female undergraduates Average age: 19.7, 158 Caucasian, 9 African–American, 3 Asian/Asian American, 2 Native American, 19 Hispanic/Latino, 3 biracial, 6 multiracial.
+",High,High,Joy,2013-06-12,
+236,"Grillon, H.
+Riquier, F. 
+Herbelin, B.
+Thalmann, D.",2006,"International Conference on Disability, Virtual Reality and Associated Technology",Use of Virtual Reality as Therapeutic Tool for Behavioural Exposure in the Ambit of Social Anxiety Disorder Treatment,Yes,Yes,No,"Eye Gaze (r), Talk/Speak (r)","Participants went through 2 phases: 3 evaluation sessions of target symptoms and weekly VR exposure for 8 weeks. In VR, subjects were exposed to social anxiety situations with audiences. Conditions: one-on-one job interview, one-on-one meeting at a bar (with others around), meeting in a cafeteria, speech in auditorium. Researchers administered anxiety questionnaires and tracked eye gaze. Self-reported anxiety and visual eye contact avoidance with virtual people decreased after treatment compared to before treatment. Software shows that participants focused more attention on the faces of the virtual people after treatment than before. ",Agent,No,"Self-reported anxiety, eye gaze",8 college students,Medium,Medium,Jenna,2013-06-12,
+237,"Rinat B. Rosenberg-Kima
+Amy L. Baylor
+E. Ashby Plant
+Celeste E. Doerr",2009,Computers and Education,Changing Middle-School Students’ Attitudes and Performance Regarding Engineering with Computer-Based Social Models,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Body Pose and Gestures (s, i), Talk/Speak (p), Auditory Stimuli (o)","Researchers used animated agents as an interface with middle school children. The agents were designed to act as social models and expected to potentially change students' attitudes towards engineering and mathematics fields. Conditions were control (no agent), male agent, or female agent.",Agent,No,"Both male and female participants in female agent condition displayed an increase in math performance, interest, utility beliefs and self-efficacy. Male participants' stereotyping was reduced in the female agent condition. Secondary analysis indicates that by increasing self-efficacy in participants, female agents were able to promote interest and math performance. 
+","106 middle-school students (61f, 45m), age range 12-15. 54% Caucasian, 27% African–American, 2% Asian/Asian American, 8% Hispanic/Latino, 6% multiracial, 1%  “other”, 2% unreported.",Medium,Medium,Joy,2013-06-12,
+238,"Jean A. Pratt
+Karina Hauser
+Zsolt Ugray
+Olga Patterson",2007,Interacting with Computers,Looking at Human–Computer Interface Design: Effects of Ethnicity in Computer Agents,No,Yes,No,"Anthropomorphic Face and Facial Expressions (a), Cooperative Behavior (r), Physical Shape (s)","This study demonstrates participants' shifts in attitude change based on the ethnicity of interactive computer agents providing them with advice. Ethnicities researched in this study are European American and African American. 
+",Agent,No,Participants increasingly changed their attitudes when matched-ethnicity agents provided them with feedback. The overall appearance of the agent as opposed to no visual appearance significantly impacted participants' action to modify their original choices based on agent advice regardless of ethnicity.,"158 Midwest and Northwestern undergraduates (86m, 72f). 90.5% European American.",Medium,Medium,Joy,2013-06-12,
+239,"North, M.M.
+Schoeneman, C.M.
+Mathis, J.R.",2002,Studies in Health Technology and Informatics,Virtual Reality Therapy: Case Study of Fear of Public Speaking,Yes,Yes,No,"Talk/Speak (r), Responsiveness/Latency (p), Emotiveness (p), Body Pose and Gestures (p), Agency (i)","One male participant was exposed to 4 conditions in VR: speaking to an empty auditorium, a full auditorium, an audience that paid no attention to him, and an audience that laughed at him. Audience size varied from 0 to 100. Subject participated in 8 weekly sessions (10-15 minutes long). He experienced similar symptoms in VR speaking situations as in real life. Subject's self-reported anxiety decreased after therapy. He also reported feeling more comfortable public speaking. ",Agent,No,Self-reported anxiety and attitudes toward public speaking ,"1 male Caucasian student from Kennesaw State University, age 28",Medium,Medium,Jenna,2013-06-12,
+240,"Garau, Maia
+Slater, Mel
+Bee, Simon
+Sasse, Martina Angela",2001,CHI (?),The Impact of Eye Gaze on Communication using Humanoid Avatars,Yes,Yes,No,"Eye Gaze (p, r), Anthropomorphic Appearance (sc), Responsiveness/Latency (p, r), Agency (i), Auditory Stimuli (sm), Body Pose and Gestures (p), Anthropomorphic Face and Facial Expressions (a), Talk/Speak (r)","Study examines gaze in avatars. Subjects were in a dyadic interaction in 4 conditions: video, audio-only, random-gaze avatar (gaze not related to conversation), and informed-gaze avatar (turn-taking). Researchers tracked head movements and inferred eye animations from audio stream. Results show that random-gaze avatar conditioned subjects did not improve on audio-only communication. The informed-gaze avatar significantly out-performed the random-gaze avatar and audio-only condition. Concludes that avatars whose gaze behavior is related to conversation improves liveliness.",Avatar,No,"Questionnaire: extent experience felt like it was face-to-face, involvement, co-presence, partner evaluation ",100 participants,High,High,Jenna,2013-06-12,
+241,"Klein, J.
+Moon, Y. 
+Picard, R.W.",2002,Interacting with Computers,"This Computer Responds to User Frustration: Theory, Design, and Results",Yes,No,No,"Agency (i), Cooperative Behavior (r), Emotiveness (i)","Interactive affect-support agent textually interacted with subjects in frustrating situations (delay while using technology system), demonstrating empathy, sympathy, and listening. The 2 control conditions: users were ignored and users reported problems and vented their feelings. Users interacted with frustrating system significantly longer after interacting with affect-support agent compared to controls. Concludes that a computer can improve some negative feelings it causes by helping users manage emotional states. ",Agent,No,"Self-reported frustration and affect, time users played the game",70 participants ,Medium,High,Jenna,2013-06-12,
