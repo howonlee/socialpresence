@@ -30,20 +30,63 @@
       "type": "integer"
     },
     "effectSizes": {
+      "description": "Effect sizes, can be whatever measure (serialize some numerical value)",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     },
     "independentVariables": {
+      "description": "Independent Variables, values are names",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
     },
     "dependentVariables": {
+      "description": "Dependent Variables, values are names",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
     },
     "moderatingVariables": {
+      "description": "Moderating Variables, values are names",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
     },
     "metrics": {
+      "description": "Metrics, values are names",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
     },
     "url": {
+      "description": "Url of where the damn paper is",
+      "type": "string"
     },
     "keywords": {
+      "description": "Keywords about the paper",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
     },
     "comments": {
+      "description": "Any comments you want to make",
+      "type": "string"
     },
     "codes": {
       "description": "Codes for the specific metaanalysis you're doing. For example, [0, 1, 1] for not cognitive, yes perceptual, yes agent/avatar"
