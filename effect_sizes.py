@@ -8,7 +8,10 @@ everything is by ref in python-land and we would like the flexibility
 def getPaperInformation(dataFile):
 	totalData = json.load(open(dataFile))
 	for dat in totalData:
-		jsonschema.validate(dat, schema)
+		try:
+			jsonschema.validate(dat, schema)
+		catch:
+			##stuff
 	return totalData
 
 if __name__ == '__main__':
